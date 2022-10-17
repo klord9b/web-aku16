@@ -1,0 +1,37 @@
+.elementor-201 .elementor-element.elementor-element-bae5066{margin-top:0px;margin-bottom:80px;padding:0px 35px 0px 35px;}.elementor-201 .elementor-element.elementor-element-60048b6 .aux-modern-heading-primary{font-size:15px;font-weight:400;text-transform:capitalize;color:var( --e-global-color-69a6b1a4 );}.elementor-201 .elementor-element.elementor-element-60048b6 .aux-modern-heading-secondary .aux-head-highlight{font-size:40px;font-weight:600;text-transform:capitalize;line-height:1.3em;letter-spacing:-0.4px;color:var( --e-global-color-70d1dd11 );max-width:680px;}.elementor-201 .elementor-element.elementor-element-d369301 .aux-filters:not(.aux-slideup) li > a span, .elementor-201 .elementor-element.elementor-element-d369301 .aux-filters.aux-slideup li > a span:before{color:var( --e-global-color-70d1dd11 );}.elementor-201 .elementor-element.elementor-element-d369301 .aux-filters li > a{font-size:16px;font-weight:400;text-transform:capitalize;}.elementor-201 .elementor-element.elementor-element-d369301 .aux-filters li > a.aux-selected span:after, .elementor-201 .elementor-element.elementor-element-d369301 .aux-filters:not(.aux-slideup) li > a.aux-selected span{color:var( --e-global-color-69a6b1a4 );}.elementor-201 .elementor-element.elementor-element-d369301 .aux-media-image{border-radius:20px 20px 20px 20px !important;}.elementor-201 .elementor-element.elementor-element-d369301 .entry-header .entry-title a{color:var( --e-global-color-70d1dd11 );font-size:20px;font-weight:600;text-transform:capitalize;letter-spacing:-0.4px;}.elementor-201 .elementor-element.elementor-element-d369301 .entry-tax a{color:rgba(17, 31, 61, 0.6);}.elementor-201 .elementor-element.elementor-element-d369301 .entry-tax{font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;}.elementor-201 .elementor-element.elementor-element-d369301 .aux-iso-item{margin-bottom:30px !important;}.elementor-201 .elementor-element.elementor-element-d369301 > .elementor-widget-container{margin:-35px 0px 0px 0px;}@media(max-width:1024px){.elementor-201 .elementor-element.elementor-element-60048b6 .aux-modern-heading-secondary .aux-head-highlight{font-size:36px;}.elementor-201 .elementor-element.elementor-element-d369301 .aux-filters li > a{font-size:14px;}.elementor-201 .elementor-element.elementor-element-d369301 .entry-header .entry-title a{font-size:18px;}.elementor-201 .elementor-element.elementor-element-d369301 .entry-tax{font-size:14px;}}@media(max-width:767px){.elementor-201 .elementor-element.elementor-element-60048b6 .aux-modern-heading-primary{font-size:14px;}.elementor-201 .elementor-element.elementor-element-60048b6 .aux-modern-heading-secondary .aux-head-highlight{font-size:24px;}.elementor-201 .elementor-element.elementor-element-d369301 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-60048b6 */.elementor-201 .elementor-element.elementor-element-60048b6 .aux-head-highlight{
+    display: inline-block;
+
+}
+.elementor-201 .elementor-element.elementor-element-60048b6 .aux-modern-heading-description p{
+    margin-bottom: 0;
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-d369301 */.elementor-201 .elementor-element.elementor-element-d369301 .aux-portfolio-columns{
+    overflow: initial;
+}
+.elementor-201 .elementor-element.elementor-element-d369301 .aux-filters{
+    position: relative;
+    top: -60px;
+}
+.elementor-201 .elementor-element.elementor-element-d369301 .aux-media-image{
+    transition:all 300ms ease-in;
+}
+.elementor-201 .elementor-element.elementor-element-d369301 .aux-col:hover .aux-media-image{
+    box-shadow: -20px 40px 60px #111F3D33;
+}
+.elementor-201 .elementor-element.elementor-element-d369301 .aux-col:hover .entry-title a{
+    color: var(--e-global-color-7569988);
+}
+@media screen and (max-width:1400px) and (min-width:1025px){
+    .elementor-201 .elementor-element.elementor-element-d369301 .aux-col{
+        margin-bottom:50px !important;
+    } 
+}
+@media screen and (max-width:900px){
+    .elementor-201 .elementor-element.elementor-element-d369301 .aux-filters{
+        position: relative;
+        top: 0px;
+    }
+    .elementor-201 .elementor-element.elementor-element-d369301 .aux-filters ul{
+        float:left;
+    }
+}/* End custom CSS */

@@ -1,0 +1,70 @@
+.elementor-214 .elementor-element.elementor-element-b1d9f60{margin-top:20px;margin-bottom:130px;padding:0px 35px 0px 35px;}.elementor-214 .elementor-element.elementor-element-aa9761b.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-214 .elementor-element.elementor-element-4776521 .entry-media img{border-radius:20px 20px 20px 20px !important;}.elementor-214 .elementor-element.elementor-element-4776521 .entry-title a{color:var( --e-global-color-70d1dd11 );}.elementor-214 .elementor-element.elementor-element-4776521 .entry-info a, .elementor-214 .elementor-element.elementor-element-4776521 .entry-info{color:var( --e-global-color-70d1dd11 );}.elementor-214 .elementor-element.elementor-element-4776521 .entry-info, .elementor-214 .elementor-element.elementor-element-4776521 .entry-info a{font-size:16px;font-weight:400;}.elementor-214 .elementor-element.elementor-element-4776521 .entry-content{color:var( --e-global-color-70d1dd11 );font-size:16px;font-weight:400;letter-spacing:-0.32px;}.elementor-214 .elementor-element.elementor-element-4776521 .entry-meta{padding:0px 0px 0px 0px;}.elementor-214 .elementor-element.elementor-element-4776521 .column-entry{padding:0px 0px 0px 0px;}.elementor-214 .elementor-element.elementor-element-4776521 .type-post .entry-main{padding:0px 30px 0px 0px;}.elementor-214 .elementor-element.elementor-element-4776521 .aux-col:hover .column-entry{background-color:#FFFFFF;box-shadow:-10px 60px 80px 0px rgba(0, 0, 0, 0.1607843137254902);}.elementor-214 .elementor-element.elementor-element-4776521{text-align:left;animation-duration:2000ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-214 .elementor-element.elementor-element-4776521 .entry-meta .aux-read-more{color:#FFFFFF;font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;letter-spacing:-0.32px;}/* Start custom CSS for aux_recent_posts, class: .elementor-element-4776521 */.elementor-214 .elementor-element.elementor-element-4776521 article{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .aux-col{
+    margin-bottom: 40px;
+    padding: 0 20px !important;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .aux-col:hover .column-entry{
+    border-radius: 20px;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .entry-main footer{
+    position: relative !important;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .entry-media{
+    margin-bottom: 0 !important;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .aux-read-more-text{
+    color: var(--e-global-color-7569988);
+    text-decoration: underline;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .aux-read-more::after{
+    background: var(--e-global-color-7569988);
+    border-radius: 100%;
+    padding: 8px 13px 10px 13px;
+    margin-right: 10px;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .aux-read-more{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .aux-col:hover .entry-title a {
+    color: var(--e-global-color-7569988);
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .aux-media-image , .elementor-214 .elementor-element.elementor-element-4776521 .entry-media{
+    max-width: 70% !important;
+}
+.elementor-214 .elementor-element.elementor-element-4776521 .entry-main{
+    position: relative;
+    left: -70px;
+
+}
+@media screen and (max-width:1440px) and  (min-width:1025px){
+    .elementor-214 .elementor-element.elementor-element-4776521 .entry-title{
+        font-size:20px !important;
+    }
+}
+@media screen and (max-width:1024px) and  (min-width:768px){
+    .elementor-214 .elementor-element.elementor-element-4776521 .aux-media-image , .elementor-214 .elementor-element.elementor-element-4776521 .entry-media{
+    max-width: 67% !important;
+}
+}
+@media screen and (max-width:767px){
+    .elementor-214 .elementor-element.elementor-element-4776521 article{
+        flex-direction: column;
+    }
+    .elementor-214 .elementor-element.elementor-element-4776521 .entry-main{
+        padding:50px 30px !important;
+    }
+    .elementor-214 .elementor-element.elementor-element-4776521 .aux-media-image , .elementor-214 .elementor-element.elementor-element-4776521 .entry-media{
+        max-width: 100% !important;
+    }
+    .elementor-214 .elementor-element.elementor-element-4776521 .entry-main{
+    position: relative;
+    left: 0px;
+
+}
+}/* End custom CSS */

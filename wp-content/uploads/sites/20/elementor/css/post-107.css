@@ -1,0 +1,133 @@
+.elementor-107 .elementor-element.elementor-element-4a0e20b{margin-top:100px;margin-bottom:50px;padding:0px 35px 0px 35px;}.elementor-107 .elementor-element.elementor-element-4323511 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-107 .elementor-element.elementor-element-4323511 .aux-modern-heading-primary{font-size:40px;font-weight:bold;letter-spacing:-1.2px;color:var( --e-global-color-text );}.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-title a{color:#081420;font-size:25px;font-weight:700;text-transform:capitalize;text-decoration:none;}.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info a, .elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info{color:var( --e-global-color-3ed51de );}.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info, .elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info a{font-size:16px;font-weight:500;font-style:normal;text-decoration:none;}.elementor-107 .elementor-element.elementor-element-6a30df5 .column-entry{padding:0px 0px 0px 0px;}.elementor-107 .elementor-element.elementor-element-6a30df5 .type-post .entry-main{padding:0px 0px 0px 0px;}.elementor-107 .elementor-element.elementor-element-6a30df5{text-align:left;}.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-meta .aux-read-more{color:#081420;font-size:16px;font-weight:500;text-transform:capitalize;padding:30px 0px 0px 0px;}@media(max-width:1024px){.elementor-107 .elementor-element.elementor-element-4323511 .aux-modern-heading-primary{font-size:32px;}.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-title a{font-size:23px;}.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info, .elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info a{font-size:15px;}}@media(max-width:767px){.elementor-107 .elementor-element.elementor-element-4323511 .aux-modern-heading-primary{font-size:26px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-6a30df5 */.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-match-height{
+    display: flex;
+    flex-wrap: wrap;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col{
+    margin: 20px 20px;
+    flex-basis: calc(25% - 40px);
+    border: 1px solid #70798B4D;
+    border-radius: 20px;
+    padding-right: 25px;
+    padding-left: 50px;
+    position: relative;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col:before{
+    content:"";
+    width: 100%;
+    height: 100%;
+    background-color: var(--e-global-color-e2729a0);
+    display: inline-block;
+    position: absolute;
+    top:0;
+    left:0;
+    opacity: 1;
+    border-radius: 20px;
+    transition:all 250ms ease-in;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col:hover:before{
+    opacity: 0;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-main{
+    display: flex;
+    flex-direction: column;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info{
+    order: -1;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end !important;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info .entry-meta-sep{
+    display: none;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info .entry-date:before{
+    content: "";
+    width: 2px;
+    height: 2px;
+    background-color: var(--e-global-color-accent);
+    display: inline-block;
+    margin-left: 10px;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info .entry-date a{
+    color: var(--e-global-color-accent) !important;
+    font-size: 15px !important;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-after-content{
+    position: relative !important;
+    margin-top: 30px;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col:hover .entry-info .entry-date a{
+    color: var(--e-global-color-e2729a0) !important;
+    text-decoration: none;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col:hover .entry-info a , .elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col:hover .entry-title a , .elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col:hover .aux-read-more{
+    text-decoration: none !important;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-after-content:before{
+    content: "";
+    width: 90%;
+    height: 4px;
+    background-color: var(--e-global-color-primary);
+    display: inline-block;
+    border-radius: 15px;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col:hover .aux-after-content:before{
+    background-color: var(--e-global-color-e2729a0);
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-circle{
+    display: none;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-load-more{
+    height: 50px;
+    border: 1px solid #65697A;
+    border-radius: 0;
+    border-radius: 5px;
+    transition: all 250ms ease-in;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-load-more:hover{
+    background: transparent linear-gradient(180deg, var(--e-global-color-primary) 0%, var(--e-global-color-secondary) 100%);
+    border: 1px solid var(--e-global-color-primary);
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col:hover .entry-info .entry-date::before{
+    background-color: var(--e-global-color-e2729a0);
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-label-text{
+    line-height: 48px;
+    text-transform: capitalize;
+    color: #000000;
+    font-weight: 500;
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .aux-load-more:hover .aux-label-text{
+    color: var(--e-global-color-e2729a0);
+}
+.elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info .post-edit-link , .elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info i{
+    display: none;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-107 .elementor-element.elementor-element-6a30df5 .entry-title a{
+        font-size:20px !important;
+    }
+    .elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info a{
+        font-size: 15px;
+    }
+    .elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col{
+        padding-left:30px !important;
+    }
+}
+@media screen and (max-width:1024px) and (min-width:768px){
+    .elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col{
+        flex-basis: calc(50% - 40px);
+    }
+    .elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info .entry-date a{
+        font-size: 14px !important;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-107 .elementor-element.elementor-element-6a30df5 .aux-col{
+        margin: 20px 0;
+        flex-basis: 100%;
+    }
+    .elementor-107 .elementor-element.elementor-element-6a30df5 .entry-info .entry-date a{
+        font-size: 14px !important;
+    }
+}/* End custom CSS */

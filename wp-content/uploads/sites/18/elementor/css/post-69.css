@@ -1,0 +1,57 @@
+.elementor-69 .elementor-element.elementor-element-92a6f99{margin-top:0px;margin-bottom:170px;padding:0px 35px 0px 35px;}.elementor-69 .elementor-element.elementor-element-2ac64b0{text-align:center;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-69 .elementor-element.elementor-element-2ac64b0 .elementor-heading-title{font-size:50px;font-weight:600;}.elementor-69 .elementor-element.elementor-element-e645d0f{--spacer-size:20px;}.elementor-69 .elementor-element.elementor-element-914c953 .aux-filters li > a{font-size:22px;text-transform:capitalize;}.elementor-69 .elementor-element.elementor-element-914c953 .aux-media-image{border-radius:10px 10px 10px 10px !important;}.elementor-69 .elementor-element.elementor-element-914c953 .entry-header .entry-title a{font-size:22px;}.elementor-69 .elementor-element.elementor-element-914c953 .aux-iso-item{margin-bottom:25px !important;}.elementor-69 .elementor-element.elementor-element-9a6b7ab .aux-modern-button-wrapper{text-align:center;}.elementor-69 .elementor-element.elementor-element-9a6b7ab .aux-modern-button{padding:15px 50px 15px 50px;}.elementor-69 .elementor-element.elementor-element-9a6b7ab .aux-text{font-size:18px;}@media(max-width:1024px){.elementor-69 .elementor-element.elementor-element-914c953 .aux-filters li > a{font-size:21px;}}@media(max-width:767px){.elementor-69 .elementor-element.elementor-element-2ac64b0 .elementor-heading-title{font-size:2em;}}/* Start custom CSS for heading, class: .elementor-element-2ac64b0 */.elementor-69 .elementor-element.elementor-element-2ac64b0 .elementor-heading-title {
+    
+    display: inline;
+    background-image: linear-gradient(#DCF4F8,#DCF4F8);
+    background-repeat: no-repeat;
+    background-size: 200% 10px;
+    background-position: center center;
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-914c953 */.elementor-69 .elementor-element.elementor-element-914c953 .aux-filters.aux-slideup li gt a span {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.elementor-69 .elementor-element.elementor-element-914c953 .aux-filters {
+    margin-bottom: 50px;
+}
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .elementor-69 .elementor-element.elementor-element-914c953 .aux-filters.aux-slideup li gt a span {
+        margin-left : 15px;
+        margin-right : 15px;
+    }
+}
+.elementor-69 .elementor-element.elementor-element-914c953 .aux-filters.aux-slideup li gt .aux-selected {
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#DCF4F8,#DCF4F8);
+    background-size: 80% 5px;
+    background-position: center center;
+}
+.elementor-69 .elementor-element.elementor-element-914c953 .aux-frame-darken:after {
+    top: initial;
+    bottom: 0;
+    height: 30%;
+    background-color: #385F96;
+    border-radius: 0 0 10px 10px;
+}
+.elementor-69 .elementor-element.elementor-element-914c953 .aux-item-overlay:hover .aux-frame-darken:after {
+    opacity: 0.9;
+}
+.elementor-69 .elementor-element.elementor-element-914c953 .hentry .aux-portfolio-columns .aux-overlay-content, .elementor-69 .elementor-element.elementor-element-914c953 .aux-widget-recent-portfolios .aux-portfolio-columns .aux-overlay-content {
+    top: initial;
+    bottom: 10%;
+    padding: 0;
+}
+@media screen and (max-width:767px) {
+    .elementor-69 .elementor-element.elementor-element-914c953 .hentry .aux-portfolio-columns .aux-overlay-content, .elementor-69 .elementor-element.elementor-element-914c953 .aux-widget-recent-portfolios .aux-portfolio-columns .aux-overlay-content {
+        bottom : 0;
+    }
+}
+.elementor-69 .elementor-element.elementor-element-914c953 .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-title a {
+    display: inline;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#2EA5DE,#2EA5DE);
+    background-size: 100% 10px;
+    background-position: center center;
+}
+.elementor-69 .elementor-element.elementor-element-914c953 .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-title a:hover {
+    color: #FFFFFF;
+}/* End custom CSS */

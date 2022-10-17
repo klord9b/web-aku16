@@ -1,0 +1,32 @@
+.elementor-55 .elementor-element.elementor-element-9b505aa{margin-top:0px;margin-bottom:210px;padding:0px 35px 0px 35px;}.elementor-55 .elementor-element.elementor-element-225d837{--spacer-size:90px;}.elementor-55 .elementor-element.elementor-element-60099f5 td{font-size:18px;text-transform:capitalize;}.elementor-55 .elementor-element.elementor-element-60099f5 th{background-color:#F3F3F3;font-size:19px;font-weight:300;text-transform:capitalize;}.elementor-55 .elementor-element.elementor-element-60099f5{animation-delay:300ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}/* Start custom CSS for aux_responsive_table, class: .elementor-element-60099f5 */.elementor-55 .elementor-element.elementor-element-60099f5 table {
+    max-width: 100%;
+}
+.elementor-55 .elementor-element.elementor-element-60099f5 table thead th {
+    background-color: rgba(41, 41, 41, 0.9) !important;
+    color: var(--e-global-color-accent);
+}
+.elementor-55 .elementor-element.elementor-element-60099f5 table a {
+    color: var(--e-global-color-primary);
+    display: block;
+    margin-bottom: 30px;
+    font-weight: 400;
+}
+.elementor-55 .elementor-element.elementor-element-60099f5 table h6 {
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+.elementor-55 .elementor-element.elementor-element-60099f5 table th, .elementor-55 .elementor-element.elementor-element-60099f5 table td {
+    text-align: center;
+}
+.elementor-55 .elementor-element.elementor-element-60099f5 table p {
+    font-style: italic;
+    font-size: 15px;
+}
+.elementor-55 .elementor-element.elementor-element-60099f5 table caption {
+    display: none;
+}
+@media screen and (max-width : 1024px) {
+    .elementor-55 .elementor-element.elementor-element-60099f5 .stacktable.small-only {
+        display : table;
+    }
+}/* End custom CSS */

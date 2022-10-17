@@ -1,0 +1,71 @@
+.elementor-144 .elementor-element.elementor-element-ee95f51{margin-top:36px;margin-bottom:200px;}.elementor-144 .elementor-element.elementor-element-50483ae .entry-title a{color:var( --e-global-color-152d6f0e );font-family:"Poppins", Sans-serif;font-size:20px;font-weight:bold;line-height:24px;}.elementor-144 .elementor-element.elementor-element-50483ae .entry-info a, .elementor-144 .elementor-element.elementor-element-50483ae .entry-info{color:var( --e-global-color-14c9128 );}.elementor-144 .elementor-element.elementor-element-50483ae .entry-info, .elementor-144 .elementor-element.elementor-element-50483ae .entry-info a{font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:400;text-transform:uppercase;line-height:20px;letter-spacing:0px;}.elementor-144 .elementor-element.elementor-element-50483ae .column-entry{padding:0px 0px 30px 0px;}.elementor-144 .elementor-element.elementor-element-50483ae{text-align:left;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-144 .elementor-element.elementor-element-ee95f51{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-144 .elementor-element.elementor-element-50483ae .column-entry{padding:0px 0px 0px 0px;}.elementor-144 .elementor-element.elementor-element-50483ae .type-post .entry-main{padding:0px 0px 20px 0px;}}@media(max-width:767px){.elementor-144 .elementor-element.elementor-element-ee95f51{margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-144 .elementor-element.elementor-element-50483ae .column-entry{padding:0px 0px 0px 0px;}.elementor-144 .elementor-element.elementor-element-50483ae .type-post .entry-main{padding:0px 0px 25px 0px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-50483ae */.elementor-144 .elementor-element.elementor-element-50483ae .aux-after-content{
+    display: none;
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .aux-col{
+    padding-left: 5px;
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .entry-header{
+    max-width: 80%;
+    margin-left: 35px;
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .entry-date:before{
+    content: '';
+    width: 40px;
+    height: 5px;
+    background-image: linear-gradient(to left, var(--e-global-color-c05065f), var(--e-global-color-cc071eb));
+     display: inline-block;
+     box-shadow: -3px 3px 7px rgba(251,176,52,0.20);
+    margin-bottom: 4px;
+    margin-right: 5px;
+    
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .entry-info{
+    margin-left:35px;
+ 
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .aux-mc-controls{
+    position: absolute;
+    top: -85px;
+    right: 0;
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .column-entry:hover {
+    background-color: var(--e-global-color-4d4e4a94);
+     box-shadow: 0px 3px 40px rgba(251,176,52,0.16);
+     transition: all 400ms ease-out;
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .type-post:hover  .entry-media, .elementor-144 .elementor-element.elementor-element-50483ae .type-post:hover .entry-title a, .elementor-144 .elementor-element.elementor-element-50483ae .type-post:hover .readmore a{
+    color:#fff!important;
+    z-index: 1;
+    position: relative;
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .aux-arrow-nav:hover{
+    background-color:var(--e-global-color-c05065f); 
+}
+
+.elementor-144 .elementor-element.elementor-element-50483ae .aux-arrow-nav{
+    border-radius: 50%;
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .aux-col{
+    margin-bottom: 80px;
+}
+@media screen and (max-width:1024px) {
+  .elementor-144 .elementor-element.elementor-element-50483ae .aux-col{
+    margin-bottom: 20px;
+}
+}
+@media only screen and (max-width: 767px) {
+.elementor-144 .elementor-element.elementor-element-50483ae .aux-match-height{
+    display: flex!important;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.elementor-144 .elementor-element.elementor-element-50483ae .aux-col{
+        margin-left:auto;
+    margin-right:auto;
+}
+.elementor-144 .elementor-element.elementor-element-50483ae  .aux-col { width: 490px;
+    max-width: 100%;
+
+}
+}/* End custom CSS */

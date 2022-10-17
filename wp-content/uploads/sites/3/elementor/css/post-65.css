@@ -1,0 +1,63 @@
+.elementor-65 .elementor-element.elementor-element-096fa7a > .elementor-container{max-width:1400px;}.elementor-65 .elementor-element.elementor-element-44e4790{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-media img{border-radius:10px 10px 10px 10px !important;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-title a{color:var( --e-global-color-accent );font-family:"Quicksand", Sans-serif;font-size:23px;font-weight:600;line-height:29px;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-title{margin-bottom:0px;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-info a, .elementor-65 .elementor-element.elementor-element-bf8915e .entry-info{color:#aaaaaa;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-info, .elementor-65 .elementor-element.elementor-element-bf8915e .entry-info a{font-family:"Ubuntu", Sans-serif;font-size:14px;font-weight:400;line-height:16px;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-info{margin-bottom:8px;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-info [class^="entry-"] + [class^="entry-"]:before, .elementor-65 .elementor-element.elementor-element-bf8915e .entry-info .entry-tax a:after{margin-right:0px;margin-left:0px;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-meta a, .elementor-65 .elementor-element.elementor-element-bf8915e .entry-meta, .elementor-65 .elementor-element.elementor-element-bf8915e .entry-meta span{color:#aaaaaa;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-meta, .elementor-65 .elementor-element.elementor-element-bf8915e .entry-meta a, .elementor-65 .elementor-element.elementor-element-bf8915e .entry-meta span{font-family:"Ubuntu", Sans-serif;font-size:14px;}.elementor-65 .elementor-element.elementor-element-bf8915e .entry-meta{padding:0px 0px 0px 0px;}.elementor-65 .elementor-element.elementor-element-bf8915e .column-entry{padding:0px 0px 0px 0px;}.elementor-65 .elementor-element.elementor-element-bf8915e .type-post .entry-main{padding:45px 55px 47px 55px;}.elementor-65 .elementor-element.elementor-element-bf8915e{text-align:left;}.elementor-65 .elementor-element.elementor-element-bf8915e > .elementor-widget-container{margin:80px 0px 0px 0px;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}@media(max-width:1024px){.elementor-65 .elementor-element.elementor-element-bf8915e > .elementor-widget-container{margin:0% 15% 0% 15%;}}@media(max-width:767px){.elementor-65 .elementor-element.elementor-element-bf8915e > .elementor-widget-container{margin:0% 5% 0% 5%;padding:0px 0px 0px 0px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-bf8915e */.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .entry-main {
+  min-height: auto;
+  width: 85%;
+  border-radius: 5px;
+}
+
+.elementor-65 .elementor-element.elementor-element-bf8915e .entry-title {
+  position: relative;
+  overflow: visible;
+}
+
+.elementor-65 .elementor-element.elementor-element-bf8915e .entry-title:before {
+  content: "";
+  position: absolute;
+  left: -18px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background-color: var(--e-global-color-primary);
+}
+.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .aux-col:hover .entry-main .entry-info:before,
+.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .aux-col:hover .entry-main .entry-title:before {
+  background-color: #fff;
+}
+
+.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .aux-media-frame {
+  border-radius: 5px;
+  box-shadow: 0 0 45px 0 rgba(0, 0, 0, 0.16);
+}
+
+.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .aux-col:hover .entry-main .entry-info a,
+.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .aux-col:hover .entry-main .entry-title a{
+  color: #FFF;
+  position: relative;
+  z-index: 9;
+}
+
+.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .aux-col:hover .entry-main:before {
+  opacity: 0.9;
+}
+
+.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .aux-col .entry-main {
+  position: relative;
+  overflow: hidden;
+}
+.elementor-65 .elementor-element.elementor-element-bf8915e .readmore{
+    display: none;
+}
+.elementor-65 .elementor-element.elementor-element-bf8915e .aux-grid-carousel-modern-layout .aux-col .entry-main:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0;
+  transition: opacity 1200ms cubic-bezier(0.165, 0.84, 0.44, 1);
+  box-shadow: 3px 14px 45px 0 rgba(0, 217, 166, 0.4);
+    background-color: transparent;
+    background-image: linear-gradient(42deg, var(--e-global-color-primary) 0%, var(--e-global-color-secondary) 100%);
+}/* End custom CSS */

@@ -1,0 +1,61 @@
+.elementor-80 .elementor-element.elementor-element-863082c{margin-top:35px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-80 .elementor-element.elementor-element-b817139.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-80 .elementor-element.elementor-element-b817139 > .elementor-element-populated{border-style:solid;border-width:1px 0px 0px 0px;border-color:rgba(160, 171, 201, 0.5);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-80 .elementor-element.elementor-element-b817139 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-80 .elementor-element.elementor-element-b817139 > .elementor-element-populated > .elementor-widget-wrap{padding:40px 0px 0px 0px;}.elementor-80 .elementor-element.elementor-element-fe9d1dd .aux-modern-heading-primary{font-size:20px;font-weight:400;text-transform:capitalize;color:var( --e-global-color-5dc220c8 );}.elementor-80 .elementor-element.elementor-element-fe9d1dd .aux-modern-heading-secondary .aux-head-highlight{font-size:45px;font-weight:bold;text-transform:capitalize;line-height:1em;letter-spacing:-1.5px;color:var( --e-global-color-6ea84a27 );}.elementor-80 .elementor-element.elementor-element-fe9d1dd{width:auto;max-width:auto;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-filters:not(.aux-slideup) li > a span, .elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-filters.aux-slideup li > a span:before{color:#39455E;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-filters li > a{font-size:16px;font-weight:400;text-transform:capitalize;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-filters li > a.aux-selected span:after, .elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-filters:not(.aux-slideup) li > a.aux-selected span{color:var( --e-global-color-5dc220c8 );}.elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-media-image{border-radius:25px 25px 25px 25px !important;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-header .entry-title a{color:var( --e-global-color-6ea84a27 );font-size:20px;font-weight:bold;letter-spacing:-0.4px;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-tax a{color:var( --e-global-color-66e20523 );}.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-tax{font-size:16px;font-weight:400;text-transform:capitalize;font-style:normal;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-main{padding:60px 120px 40px 40px !important;background-color:#FFFFFF;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-iso-item{margin-bottom:30px !important;}.elementor-80 .elementor-element.elementor-element-6c4aa37 > .elementor-widget-container{margin:-30px 0px 0px 0px;}.elementor-80 .elementor-element.elementor-element-6c4aa37{z-index:9;}@media(max-width:1024px){.elementor-80 .elementor-element.elementor-element-fe9d1dd .aux-modern-heading-primary{font-size:18px;}.elementor-80 .elementor-element.elementor-element-fe9d1dd .aux-modern-heading-secondary .aux-head-highlight{font-size:40px;}}@media(max-width:767px){.elementor-80 .elementor-element.elementor-element-fe9d1dd .aux-modern-heading-primary{margin:0px 0px 0px 0px;}.elementor-80 .elementor-element.elementor-element-fe9d1dd .aux-modern-heading-secondary .aux-head-highlight{font-size:36px;line-height:1.3em;}.elementor-80 .elementor-element.elementor-element-fe9d1dd{width:100%;max-width:100%;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-filters li > a{font-size:14px;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-header .entry-title a{font-size:16px;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-tax{font-size:14px;}.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-main{padding:15px 10px 15px 20px !important;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-fe9d1dd */.elementor-80 .elementor-element.elementor-element-fe9d1dd .aux-head-highlight{
+    display: inline-block;
+    max-width: 534px;
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-6c4aa37 */.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-main{
+    display: inline-block;
+    box-shadow: 0px 30px 70px #00000033;
+    width: 60%;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 50px;
+    left: 40px;
+    opacity: 0;
+    transition:all 250ms ease-in;
+}
+.elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-col:hover .entry-main{
+    opacity: 1;
+}
+.elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-filters{
+    position: relative;
+    top: -50px;
+}
+.elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-header:after{
+    content:'';
+    width:50px;
+    height:50px;
+    background-color: var(--e-global-color-5dc220c8);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1681.443,2055.308l4.761,4.761-4.761,4.761' transform='translate(-1680.029 -2053.894)' fill='none' stroke='%23fff' stroke-linecap='round' stroke-width='2'/%3E%3C/svg%3E") !important;
+    background-repeat: no-repeat;
+    background-position: 22px 19px;
+    border-radius: 10px;
+    position: absolute;
+    right: -50%;
+    top: 0;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-main{
+        padding:60px 90px 40px 40px !important;
+    }
+}
+@media screen and (max-width:900px){
+    .elementor-80 .elementor-element.elementor-element-6c4aa37{
+        margin-top:30px;
+    }
+    .elementor-80 .elementor-element.elementor-element-6c4aa37 .aux-filters{
+        position: relative;
+        top: 0px;
+    }
+    .elementor-80 .elementor-element.elementor-element-6c4aa37 ul{
+        float:left !important;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-80 .elementor-element.elementor-element-6c4aa37 .entry-header:after{
+        width:30px;
+        height:30px;
+        background-position: 12px 9px;
+        right: -30%;
+        top: 60%;
+    }
+}/* End custom CSS */

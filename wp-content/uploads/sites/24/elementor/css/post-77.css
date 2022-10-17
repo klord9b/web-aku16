@@ -1,0 +1,19 @@
+.elementor-77 .elementor-element.elementor-element-cc97ce9 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-77 .elementor-element.elementor-element-cc97ce9{margin-top:35px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-77 .elementor-element.elementor-element-1d33cc3{width:auto;max-width:auto;animation-duration:2000ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);flex-grow:1;}.elementor-77 .elementor-element.elementor-element-4dce99d{text-align:left;width:auto;max-width:auto;align-self:center;animation-duration:2000ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-77 .elementor-element.elementor-element-4dce99d .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-77 .elementor-element.elementor-element-4dce99d .aux-menu-depth-0 > .aux-item-content{color:#000000;font-family:"Quicksand", Sans-serif;font-size:16px;font-weight:500;text-transform:capitalize;letter-spacing:-0.48px;padding:0px 31px 0px 0px;}.elementor-77 .elementor-element.elementor-element-4dce99d .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --e-global-color-5dc220c8 );}.elementor-77 .elementor-element.elementor-element-4dce99d .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button-wrapper{text-align:left;}.elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button.aux-modern-button-outline .aux-overlay:before, .elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button .aux-overlay:before{background-color:var( --e-global-color-5c4489cf );}.elementor-77 .elementor-element.elementor-element-101428f .aux-overlay:before, .elementor-77 .elementor-element.elementor-element-101428f .aux-overlay:after{box-shadow:0px 30px 50px 0px rgba(252, 170, 35, 0.30196078431372547);border-radius:25px 25px 25px 25px;}.elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button{padding:14px 42px 14px 40px;}.elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button.aux-modern-button-outline .aux-overlay:after, .elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button .aux-overlay:after{background-color:var( --e-global-color-5dc220c8 );}.elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button:hover .aux-overlay:before, .elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button:hover .aux-overlay:after{box-shadow:0px 30px 50px 0px rgba(0, 37, 219, 0.30196078431372547);}.elementor-77 .elementor-element.elementor-element-101428f .aux-text{font-size:16px;font-weight:400;text-transform:capitalize;color:#FFFFFF;}.elementor-77 .elementor-element.elementor-element-101428f{width:auto;max-width:auto;animation-delay:900ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-77 .elementor-element.elementor-element-101428f .aux-modern-button{padding:11px 36px 11px 35px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-4dce99d */.elementor-77 .elementor-element.elementor-element-4dce99d .aux-menu-depth-0.current-menu-item .aux-item-content{
+    color: var(--e-global-color-5dc220c8) !important;
+    font-weight: bold;
+}
+@media screen and (max-width:900px){
+    .elementor-77 .elementor-element.elementor-element-4dce99d .aux-item-content{
+        padding:0 0 30px 0 !important;
+        font-size:24px !important;
+    }
+    .elementor-77 .elementor-element.elementor-element-4dce99d{
+        margin-right:30px;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_modern_button, class: .elementor-element-101428f */@media screen and (max-width:900px){
+    .elementor-77 .elementor-element.elementor-element-101428f{
+        position:absolute;
+        right:15%;
+    }
+}/* End custom CSS */

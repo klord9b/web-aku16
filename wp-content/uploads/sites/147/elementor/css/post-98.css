@@ -1,0 +1,29 @@
+.elementor-98 .elementor-element.elementor-element-e448f7f > .elementor-container{max-width:1670px;}.elementor-98 .elementor-element.elementor-element-e448f7f{margin-top:43px;margin-bottom:150px;}.elementor-98 .elementor-element.elementor-element-6c2ee0c7 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 35px 0px 35px;}.elementor-98 .elementor-element.elementor-element-434d09a6 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-98 .elementor-element.elementor-element-434d09a6 .aux-modern-heading-primary{font-family:"Cabin", Sans-serif;font-size:40px;font-weight:bold;line-height:49px;letter-spacing:-1.5px;color:#000000;margin:0px 0px 0px 0px;}.elementor-98 .elementor-element.elementor-element-434d09a6{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-98 .elementor-element.elementor-element-6bb72235 .elementor-repeater-item-18d3198 .aux-icon-list-icon{margin:0px 0px 0px 0px;}.elementor-98 .elementor-element.elementor-element-6bb72235 .aux-icon-list-item, .elementor-98 .elementor-element.elementor-element-6bb72235 .aux-icon-list-items{justify-content:center;text-align:center;}.elementor-98 .elementor-element.elementor-element-6bb72235 .aux-icon-list-text{color:#cfcfcf;font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:19px;margin:0px 0px 0px 0px;}.elementor-98 .elementor-element.elementor-element-6bb72235 .aux-icon-list-text2{margin:0px 0px 0px 0px;}.elementor-98 .elementor-element.elementor-element-6bb72235 .aux-icon-list-icon{color:#cfcfcf;font-size:8px;margin:5px 9px 0px 9px;}.elementor-98 .elementor-element.elementor-element-6bb72235 .aux-icon-list-item{padding:0px 0px 0px 0px;margin:0px 0px 0px 0px;}.elementor-98 .elementor-element.elementor-element-6bb72235 > .elementor-widget-container{margin:-3px 0px 0px 0px;}.elementor-98 .elementor-element.elementor-element-6bb72235{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-98 .elementor-element.elementor-element-2226d4b1 .post:hover .aux-media-image{box-shadow:0px 10px 50px 0px rgba(0,0,0,0.25);}.elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-title a{color:#000000;}.elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-title{font-family:"Cabin", Sans-serif;font-size:20px;font-weight:bold;line-height:30px;letter-spacing:-0.3px;margin-bottom:16px;}.elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-info a, .elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-info{color:#000000;}.elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-info, .elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-info a{font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:23px;}.elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-info{margin-bottom:30px;}.elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-content{color:#000000;font-family:"Montserrat", Sans-serif;font-size:16px;font-weight:500;line-height:30px;margin-bottom:15px;}.elementor-98 .elementor-element.elementor-element-2226d4b1{text-align:left;animation-delay:200ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-98 .elementor-element.elementor-element-2226d4b1 .aux-read-more{background-color:transparent;background-image:linear-gradient(108deg, #7400ff 0%, #5740ff 100%);color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:500;line-height:19px;letter-spacing:-0.3px;padding:15px 35px 15px 35px;}.elementor-98 .elementor-element.elementor-element-2226d4b1 > .elementor-widget-container{margin:40px 0px 0px 0px;}/* Start custom CSS for aux_icon_list, class: .elementor-element-6bb72235 */.elementor-98 .elementor-element.elementor-element-6bb72235 .aux-icon-list-items.aux-direction-horizontal {
+    justify-content: center;
+    margin: 0 !important;
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_posts_masonry, class: .elementor-element-2226d4b1 */.elementor-98 .elementor-element.elementor-element-2226d4b1 .aux-col {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.elementor-98 .elementor-element.elementor-element-2226d4b1 .aux-masonry-layout  {
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.elementor-98 .elementor-element.elementor-element-2226d4b1 .aux-media-image {
+    transition: box-shadow 300ms ease-out;
+}
+
+.elementor-98 .elementor-element.elementor-element-2226d4b1 .entry-media {
+    margin-bottom: 40px;
+}
+
+.elementor-98 .elementor-element.elementor-element-2226d4b1 .aux-read-more {
+    float: none;
+}
+
+.elementor-98 .elementor-element.elementor-element-2226d4b1 .aux-read-more:after {
+    display: none;
+}/* End custom CSS */

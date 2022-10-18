@@ -1,0 +1,143 @@
+.elementor-97 .elementor-element.elementor-element-99e653d:not(.elementor-motion-effects-element-type-background), .elementor-97 .elementor-element.elementor-element-99e653d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("/wp-content/uploads/sites/152/2020/03/Mask-Group-20.png");background-position:center left;background-repeat:no-repeat;background-size:auto;}.elementor-97 .elementor-element.elementor-element-99e653d > .elementor-background-overlay{background-image:url("/wp-content/uploads/sites/152/2020/03/Mask-Group-19.png");background-position:center right;background-repeat:no-repeat;background-size:auto;opacity:1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-97 .elementor-element.elementor-element-99e653d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:150px;padding:0px 35px 0px 35px;}.elementor-97 .elementor-element.elementor-element-4b17dfb{text-align:center;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-97 .elementor-element.elementor-element-4b17dfb .elementor-heading-title{font-family:"Roboto Condensed", Sans-serif;font-size:61px;font-weight:900;}.elementor-97 .elementor-element.elementor-element-c40fb00 .aux-the-svg{width:300px;}.elementor-97 .elementor-element.elementor-element-c40fb00 .aux-widget-container{text-align:center;}.elementor-97 .elementor-element.elementor-element-c40fb00{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-97 .elementor-element.elementor-element-5deefff{--spacer-size:50px;}.elementor-97 .elementor-element.elementor-element-a296d69 .aux-shop-info-wrapper{padding:75px 0px 0px 0px;}.elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters ul > li{font-size:20px;font-weight:normal;}.elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters{margin:0px 0px 70px 0px;}.elementor-97 .elementor-element.elementor-element-a296d69 .auxshp-loop-title{font-size:30px;font-weight:900;}.elementor-97 .elementor-element.elementor-element-a296d69 .woocommerce-Price-amount{font-size:30px;font-weight:900;}.elementor-97 .elementor-element.elementor-element-a296d69 .aux-shop-meta-terms > a{color:#B1BBBB;}.elementor-97 .elementor-element.elementor-element-a296d69 .aux-shop-meta-terms, .elementor-97 .elementor-element.elementor-element-a296d69 .aux-shop-meta-terms a{font-size:18px;font-style:normal;}.elementor-97 .elementor-element.elementor-element-a296d69 .add_to_cart_button{font-family:"Open Sans", Sans-serif;font-size:20px;font-weight:600;padding:20px 60px 20px 60px;}.elementor-97 .elementor-element.elementor-element-a296d69{animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}@media(max-width:1024px){.elementor-97 .elementor-element.elementor-element-a296d69 .auxshp-loop-title{font-size:1.2em;}}@media(max-width:767px){.elementor-97 .elementor-element.elementor-element-4b17dfb .elementor-heading-title{font-size:2.5em;}.elementor-97 .elementor-element.elementor-element-c40fb00 .aux-widget-container{text-align:center;}}/* Start custom CSS for aux_advance_recent_product, class: .elementor-element-a296d69 */.elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters li a {
+    color: #000000;
+
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters .aux-selected {
+    color : #F8C843;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters.aux-underline li a span:after {
+    background-color: #F8C843;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters li gt a {
+    padding: 5px 0.75em 0 0.75em;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters ul {
+    padding: 0 60px 0 60px;
+    background-color: #ffffff;
+    height: 65px;
+    border-radius: 80px;
+    box-shadow: 0 8px 35px #9C9C9C29;
+}
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters ul {
+        padding : 0 20px 0 20px;
+    }
+    .elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters li gt a {
+        padding : 0;
+    }
+}
+@media screen and (max-width:767px) {
+    .elementor-97 .elementor-element.elementor-element-a296d69 .aux-filters ul {
+        height : 100%;
+        border-radius : 40px;
+        padding : 0 30px 0 30px;
+    }
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .aux-shop-info-wrapper {
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .aux-shop-meta-wrapper, .elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .aux-shop-btns-wrapper {
+    justify-content: center;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .auxshp-loop-title, .elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .price {
+    max-width: 100%;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .aux-shop-btns-wrapper .button .aux-ico {
+    display: none;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .aux-shop-btns-wrapper .button {
+    border-bottom: 1px solid #F8C843;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product:hover .aux-shop-btns-wrapper .button {
+    border-bottom: none;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 76px;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .aux-shop-btns-wrapper {
+    border-top: none;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .auxshp-loop-title, .aux-widget-recent-products-pro .price {
+    margin-bottom: 20px;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .auxicon-heart-small-outline:before {
+    color: #CF308A;
+    position: absolute;
+    top: 60%;
+    right: 10%;
+    opacity: 0;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product:hover .auxicon-heart-small-outline:before {
+    opacity: 1;
+    top: 54%;
+}
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product:hover .auxicon-heart-small-outline:before {
+        top : 45%;
+    }
+}
+@media screen and (max-width : 767px) {
+    .elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product:hover .auxicon-heart-small-outline:before {
+        top : 37%;
+    }
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-flipper-images:hover .auxshp-product-image {
+    opacity: 1;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .auxshp-product-secondary-image {
+    display: none;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .aux-flipper-images {
+    overflow: visible;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product .woocommerce-LoopProduct-link:before {
+    content: "";
+    width: 90%;
+    height: 210px;
+    border-radius: 20px;
+    position: absolute;
+    top: 340px;
+    background-color: #fff;
+    box-shadow: 0 8px 60px #9C9C9C29;
+    z-index: -1;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product .woocommerce-LoopProduct-link:after {
+    content: "";
+    width: 430px;
+    height: 210px;
+    border-radius: 20px;
+    position: absolute;
+    top: 340px;
+    z-index: -1;
+    background-image: url('/wp-content/uploads/sites/152/2020/03/Pngback.png');
+    background-repeat: no-repeat;
+    background-position: -250px -100px;
+    background-size: 150% 150%;
+    opacity: 0;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product:hover  .woocommerce-LoopProduct-link:before, .elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product:hover .woocommerce-LoopProduct-link:after {
+    opacity: 0.5;
+    transform: translateY(-20px);
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product:hover  .woocommerce-LoopProduct-link img {
+    transform: translateY(-20px);
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .price ins {
+    background-color: rgba(0,0,0,0);
+    margin-right: 30px;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .price del {
+    color: #B1BBBB;
+}
+.elementor-97 .elementor-element.elementor-element-a296d69, .elementor-97 .elementor-element.elementor-element-a296d69:hover,.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product .woocommerce-LoopProduct-link:after, .elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product .auxicon-heart-small-outline:before,.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product  .woocommerce-LoopProduct-link:before,.elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .type-product  .woocommerce-LoopProduct-link img, .elementor-97 .elementor-element.elementor-element-a296d69 .aux-widget-recent-products-pro .aux-shop-btns-wrapper .button {
+        transition-property: all;
+    transition-delay: 0ms;
+    transition-duration: 600ms;
+    transition-timing-function: cubic-bezier(.25,.46,.45,.94);
+}
+
+.elementor-97 .elementor-element.elementor-element-a296d69 .auxshp-wishlist{
+    cursor: pointer;
+}/* End custom CSS */

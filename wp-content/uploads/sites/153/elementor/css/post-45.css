@@ -1,0 +1,14 @@
+.elementor-45 .elementor-element.elementor-element-dce6716{padding:0px 35px 0px 35px;z-index:10;position:absolute;top:-9px;right:0px;left:0px;}.elementor-45 .elementor-element.elementor-element-c4b79ca .aux-widget-image{text-align:left;}.elementor-bc-flex-widget .elementor-45 .elementor-element.elementor-element-fa6c56a.elementor-column .elementor-column-wrap{align-items:center;}.elementor-45 .elementor-element.elementor-element-fa6c56a.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-45 .elementor-element.elementor-element-fa6c56a.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-end;}.elementor-45 .elementor-element.elementor-element-d8a05f1 .aux-modern-heading-primary{font-size:15px;font-weight:500;line-height:11px;letter-spacing:1.8px;}.elementor-45 .elementor-element.elementor-element-d8a05f1 > .elementor-widget-container{margin:0px 16px -13px 0px;}.elementor-45 .elementor-element.elementor-element-d8a05f1{width:auto;max-width:auto;}.elementor-45 .elementor-element.elementor-element-4101354{text-align:left;width:auto;max-width:auto;}.elementor-45 .elementor-element.elementor-element-4101354 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-45 .elementor-element.elementor-element-4101354 .aux-menu-depth-0 > .aux-item-content{font-size:18px;text-transform:capitalize;}.elementor-45 .elementor-element.elementor-element-4101354 .aux-fs-menu .aux-master-menu{text-align:left;}@media(max-width:767px){.elementor-45 .elementor-element.elementor-element-dbed2ba{width:40%;}.elementor-45 .elementor-element.elementor-element-fa6c56a{width:60%;}.elementor-45 .elementor-element.elementor-element-d8a05f1 .aux-modern-heading-primary{font-size:13px;}.elementor-45 .elementor-element.elementor-element-4101354 .aux-menu-depth-0 > .aux-item-content{font-size:14px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-4101354 */.elementor-45 .elementor-element.elementor-element-4101354 .aux-burger.aux-regular-small .mid-line {
+    margin:5px 0;
+    width: 79%;
+    margin-left: 6px;
+}
+.elementor-45 .elementor-element.elementor-element-4101354 .aux-burger::after, .aux-burger[class*="regular"]::after {
+    width: 130%;
+}
+.elementor-45 .elementor-element.elementor-element-4101354 .aux-burger::before, .aux-burger[class*="regular"]::before{
+    width: 130%; 
+}
+.elementor-45 .elementor-element.elementor-element-4101354 .aux-burger[class*="small"] {
+    width: 20px;
+}/* End custom CSS */

@@ -1,0 +1,30 @@
+.elementor-54 .elementor-element.elementor-element-ce4bd42 > .elementor-container{max-width:1600px;}.elementor-54 .elementor-element.elementor-element-ce4bd42{padding:0px 35px 0px 35px;}.elementor-bc-flex-widget .elementor-54 .elementor-element.elementor-element-0151ee8.elementor-column .elementor-column-wrap{align-items:center;}.elementor-54 .elementor-element.elementor-element-0151ee8.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-54 .elementor-element.elementor-element-0151ee8.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-start;}.elementor-54 .elementor-element.elementor-element-d11fa92{width:auto;max-width:auto;}.elementor-54 .elementor-element.elementor-element-78e700a .aux-modern-heading-primary{font-size:20px;font-weight:800;font-style:italic;line-height:1.2em;letter-spacing:-0.92px;margin:0px 0px 0px 0px;}.elementor-54 .elementor-element.elementor-element-78e700a .aux-modern-heading-secondary{font-size:20px;font-weight:800;font-style:italic;letter-spacing:-0.92px;margin:0px 0px 0px 0px;}.elementor-54 .elementor-element.elementor-element-78e700a > .elementor-widget-container{padding:0px 0px 0px 18px;}.elementor-54 .elementor-element.elementor-element-78e700a{width:auto;max-width:auto;}.elementor-bc-flex-widget .elementor-54 .elementor-element.elementor-element-f8f9244.elementor-column .elementor-column-wrap{align-items:center;}.elementor-54 .elementor-element.elementor-element-f8f9244.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-54 .elementor-element.elementor-element-f8f9244.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-end;}.elementor-54 .elementor-element.elementor-element-ff2c60c{display:block;text-align:center;width:auto;max-width:auto;}.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-vertical .aux-menu-depth-0 .aux-item-content{display:block;text-align:center;}.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-menu-depth-0 > .aux-item-content{font-family:"Lato", Sans-serif;font-size:16px;font-weight:400;text-transform:capitalize;line-height:1.4em;padding:50px 20px 50px 20px;}.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-fs-menu .aux-menu-item > .aux-item-content{font-family:"Lato", Sans-serif;font-weight:700;}.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-fs-menu .aux-menu-item.aux-hover > .aux-item-content{color:#E90909 !important;}.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-54 .elementor-element.elementor-element-ff2c60c > .elementor-widget-container{margin:0px 30px 0px 0px;}.elementor-54 .elementor-element.elementor-element-e3d987b .aux-search-submit i{font-size:28px;}.elementor-54 .elementor-element.elementor-element-e3d987b .aux-search-submit{cursor:pointer;}.elementor-54 .elementor-element.elementor-element-e3d987b .aux-search-popup .aux-search-input-form{border-width:2px;}.elementor-54 .elementor-element.elementor-element-e3d987b .aux-search-popup .aux-submit-icon-container:before{font-size:30px;}.elementor-54 .elementor-element.elementor-element-e3d987b > .elementor-widget-container{margin:0px -12px 0px -12px;padding:0px 0px 0px 0px;}.elementor-54 .elementor-element.elementor-element-e3d987b{width:auto;max-width:auto;}@media(min-width:768px){.elementor-54 .elementor-element.elementor-element-0151ee8{width:26.139%;}.elementor-54 .elementor-element.elementor-element-f8f9244{width:73.861%;}}@media(max-width:1024px){.elementor-54 .elementor-element.elementor-element-ce4bd42{margin-top:25px;margin-bottom:0px;}}@media(max-width:767px){.elementor-54 .elementor-element.elementor-element-ce4bd42{margin-top:35px;margin-bottom:0px;}.elementor-54 .elementor-element.elementor-element-0151ee8{width:50%;}.elementor-54 .elementor-element.elementor-element-d11fa92 .aux-has-logo img{width:82%;}.elementor-54 .elementor-element.elementor-element-78e700a .aux-modern-heading-primary{font-size:18px;line-height:0.7em;}.elementor-54 .elementor-element.elementor-element-78e700a .aux-modern-heading-secondary{font-size:18px;}.elementor-54 .elementor-element.elementor-element-78e700a > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-54 .elementor-element.elementor-element-f8f9244{width:50%;}.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:40px;line-height:1.5em;padding:0px 0px 15px 0px;}.elementor-54 .elementor-element.elementor-element-ff2c60c > .elementor-widget-container{margin:0px 20px 0px 0px;}.elementor-54 .elementor-element.elementor-element-e3d987b .aux-search-submit i{font-size:26px;}}/* Start custom CSS for aux_menu_box, class: .elementor-element-ff2c60c */.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-skin-classic .menu-item:after {
+    content: '';
+    height: 0px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: #FF0000;
+    width: 100%;
+    transition: all .4s ease-in;
+}
+.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-skin-classic .menu-item:hover:after{
+   height: 4px;
+}
+.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-skin-classic .menu-item{
+    background-repeat: no-repeat;
+    background-image: linear-gradient(180deg, rgba(255,0,0,0.23) 2%, rgba(255,0,0,0.23) 51%, rgba(255,0,0,0) 97%);
+    background-size: 100% 0%;
+    transition: background-size 400ms ease-in;
+}
+.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-skin-classic .menu-item:hover{
+    background-size: 100% 100%;
+}
+.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-panel-close{
+    top: 76px; 
+}
+.elementor-54 .elementor-element.elementor-element-ff2c60c .aux-panel-close {
+  left: auto;
+    right: 0;
+}/* End custom CSS */

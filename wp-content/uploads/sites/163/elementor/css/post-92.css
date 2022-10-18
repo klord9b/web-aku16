@@ -1,0 +1,54 @@
+.elementor-92 .elementor-element.elementor-element-b46dac2 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-92 .elementor-element.elementor-element-b46dac2{padding:55px 35px 55px 35px;}.elementor-92 .elementor-element.elementor-element-9c15844{animation-duration:3000ms;animation-delay:500ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-92 .elementor-element.elementor-element-a94bff1.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-end;}.elementor-92 .elementor-element.elementor-element-6518c05 .aux-cart-contents > span{font-size:10px;color:var( --e-global-color-primary );}.elementor-92 .elementor-element.elementor-element-6518c05 .aux-cart-wrapper .aux-card-item h3{color:#303030;}.elementor-92 .elementor-element.elementor-element-6518c05 .aux-cart-wrapper .aux-card-item span{color:#303030;}.elementor-92 .elementor-element.elementor-element-6518c05 > .elementor-widget-container{margin:0px 20px 0px 0px;}.elementor-92 .elementor-element.elementor-element-6518c05{width:auto;max-width:auto;}.elementor-92 .elementor-element.elementor-element-5b6aec3{text-align:left;width:auto;max-width:auto;}.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-menu-depth-0 > .aux-item-content{color:#0000003D;font-family:"DM Serif Display", Sans-serif;font-size:30px;font-weight:400;text-transform:capitalize;padding:20px 0px 20px 0px;}.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --e-global-color-primary );}.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-menu-depth-0.current-menu-item > a{color:var( --e-global-color-primary );}.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-burger:before,  .elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-burger:after, .elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-burger .mid-line{border-color:var( --e-global-color-primary );}@media(max-width:1024px){.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-menu-depth-0 > .aux-item-content{font-size:25px;}}@media(max-width:767px){.elementor-92 .elementor-element.elementor-element-4b66da8{width:50%;}.elementor-92 .elementor-element.elementor-element-a94bff1{width:50%;}}/* Start custom CSS for aux_shopping_cart, class: .elementor-element-6518c05 */.elementor-92 .elementor-element.elementor-element-6518c05 .aux-cart-contents span {
+    background-color: transparent;
+}/* End custom CSS */
+/* Start custom CSS for aux_menu_box, class: .elementor-element-5b6aec3 */.elementor-92 .elementor-element.elementor-element-5b6aec3 li .aux-item-content{
+    display: inline-block !important;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}
+.elementor-92 .elementor-element.elementor-element-5b6aec3 ul{
+    width: 60%;
+    text-align: right;
+}
+.elementor-92 .elementor-element.elementor-element-5b6aec3 .offcanvas-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+.elementor-92 .elementor-element.elementor-element-5b6aec3 ul li:hover .aux-item-content:after{
+    content: "";
+    width: 33px;
+    height: 3px;
+    background-color: var(--e-global-color-primary);
+    display: inline-block;
+    position: relative;
+    margin-left: 20px;
+}
+.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-offcanvas-menu{
+    width: 22%;
+}
+.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-burger .mid-line{
+    width: 70%;
+    margin: 4px 0;
+}
+.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-burger::after{
+    width: 70%;
+    float: right;
+}
+.elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-close {
+    float: right;
+    right: 35%;
+}
+@media screen and (max-width:900px){
+    .elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-offcanvas-menu{
+        width: 50%;
+    }
+    .elementor-92 .elementor-element.elementor-element-5b6aec3 ul li:hover .aux-item-content:after{
+        width: 25px;
+        margin-left: 5px;
+    }
+    .elementor-92 .elementor-element.elementor-element-5b6aec3 .aux-close {
+        right: 30%;
+    }
+}/* End custom CSS */

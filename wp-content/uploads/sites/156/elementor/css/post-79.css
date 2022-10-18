@@ -1,0 +1,28 @@
+.elementor-79 .elementor-element.elementor-element-c47e657{margin-top:-90px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-79 .elementor-element.elementor-element-e82be18 hr[class*="aux-divider"]{margin-top:3em;margin-bottom:3em;border-color:#4641D8;}.elementor-79 .elementor-element.elementor-element-3531f8f{padding:0px 35px 0px 35px;}.elementor-79 .elementor-element.elementor-element-fea7573{animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}.elementor-79 .elementor-element.elementor-element-64a5d21 .aux-modern-heading-primary{font-size:20px;font-weight:800;}.elementor-79 .elementor-element.elementor-element-64a5d21 .aux-modern-heading-secondary{max-width:674px;}.elementor-79 .elementor-element.elementor-element-64a5d21 .aux-modern-heading-secondary .aux-head-highlight{font-size:50px;font-weight:800;text-transform:capitalize;letter-spacing:-1.5px;}.elementor-79 .elementor-element.elementor-element-16c2b14 .aux-filters li > a{font-family:"Quicksand", Sans-serif;font-size:16px;font-weight:bold;text-transform:capitalize;}.elementor-79 .elementor-element.elementor-element-16c2b14 .aux-media-image{border-radius:20px 20px 20px 20px !important;}@media(max-width:1024px){.elementor-79 .elementor-element.elementor-element-64a5d21 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-79 .elementor-element.elementor-element-64a5d21 .aux-modern-heading-primary{font-size:18px;margin:0px 0px -15px 0px;}.elementor-79 .elementor-element.elementor-element-64a5d21 .aux-modern-heading-secondary .aux-head-highlight{font-size:45px;letter-spacing:-0.4px;}}@media(max-width:767px){.elementor-79 .elementor-element.elementor-element-64a5d21 .aux-modern-heading-primary{font-size:16px;}.elementor-79 .elementor-element.elementor-element-64a5d21 .aux-modern-heading-secondary .aux-head-highlight{font-size:38px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-64a5d21 */@media screen and (max-width:1367px) and (min-width:1025px){
+    .elementor-79 .elementor-element.elementor-element-64a5d21 .aux-head-highlight{
+        font-size:70px !important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-16c2b14 */.elementor-79 .elementor-element.elementor-element-16c2b14 .aux-selected span{
+    color: #fff;
+}
+.elementor-79 .elementor-element.elementor-element-16c2b14 .aux-filters.aux-slideup .aux-selected span::before{
+    transform: none !important;
+}
+.elementor-79 .elementor-element.elementor-element-16c2b14 .aux-filters.aux-slideup .aux-selected span::after{
+        transform: none !important;
+    }
+.elementor-79 .elementor-element.elementor-element-16c2b14 .aux-filters{
+    position: absolute;
+    top: -8%;
+}
+@media screen and (max-width:1441px){
+    .elementor-79 .elementor-element.elementor-element-16c2b14 .aux-col{
+        margin-bottom: 2% !important;
+    }
+}
+@media screen and (max-width:1024px){
+    .elementor-79 .elementor-element.elementor-element-16c2b14 .aux-filters{
+        position: static;
+    }
+}/* End custom CSS */

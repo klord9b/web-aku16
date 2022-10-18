@@ -117,3 +117,62 @@
 
 .list-portfolio.aux-template-type-default .aux-primary .entry-media { margin-bottom: 30px; }
 .list-portfolio.aux-template-type-default .aux-primary .entry-title { font-size: 1.1em; }
+.list-portfolio.aux-template-type-default .aux-primary .entry-title a { color: inherit; }
+.list-portfolio.aux-template-type-default .aux-primary .entry-title a:hover { color: #1bb0ce; }
+.list-portfolio.aux-template-type-default .entry-tax { margin-left: 0; font-style: italic; }
+.list-portfolio.aux-template-type-default .entry-tax > a:first-child::before { content: none; }
+
+.hentry .aux-portfolio-columns.aux-tile-lighten .aux-portfolio-item-title, .aux-widget-recent-portfolios .aux-portfolio-columns.aux-tile-lighten .aux-portfolio-item-title { color: #3D3D3D; }
+.hentry .aux-portfolio-columns .aux-iso-item .aux-col, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-iso-item .aux-col { padding: 0px; }
+.hentry .aux-portfolio-columns .entry-media, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-media { margin-bottom: 27px; position: relative; }
+.hentry .aux-portfolio-columns .entry-title, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-title { /* @TODO: later we should change it to work without !important */ font-size: 1.1em !important; }
+.hentry .aux-portfolio-columns .entry-title a, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-title a { color: inherit; }
+.hentry .aux-portfolio-columns .entry-title a:hover, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-title a:hover { color: #1bb0ce; }
+.hentry .aux-portfolio-columns .entry-header, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-header { margin-bottom: 10px; float: left; max-width: calc(100% - 40px); }
+.hentry .aux-portfolio-columns .entry-info, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-info { clear: both; }
+.hentry .aux-portfolio-columns .entry-tax, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-tax { margin-left: 0; font-style: italic; }
+.hentry .aux-portfolio-columns .entry-tax > a, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-tax > a { color: #AAA; }
+.hentry .aux-portfolio-columns .entry-tax > a::before, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-tax > a::before { content: none; }
+.hentry .aux-portfolio-columns .entry-tax > a::after, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-tax > a::after { content: ' , '; }
+.hentry .aux-portfolio-columns .entry-tax > a:last-child::after, .aux-widget-recent-portfolios .aux-portfolio-columns .entry-tax > a:last-child::after { content: ''; }
+.hentry .aux-portfolio-columns .comments-iconic, .aux-widget-recent-portfolios .aux-portfolio-columns .comments-iconic { font-size: 0.875em; }
+.hentry .aux-portfolio-columns .aux-hover-active, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-hover-active { position: relative; }
+.hentry .aux-portfolio-columns .aux-item-overlay .entry-media, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-media { margin-bottom: 0; }
+.hentry .aux-portfolio-columns .aux-item-overlay .entry-media, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-media { margin-bottom: 0; }
+.hentry .aux-portfolio-columns .aux-item-overlay .entry-header, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-header { float: none; max-width: 100%; margin-bottom: 0; }
+.hentry .aux-portfolio-columns .aux-item-overlay .entry-info, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-info { font-size: 1em; }
+.hentry .aux-portfolio-columns .aux-item-overlay .entry-title, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-title { font-size: 1.125em; font-weight: 600; }
+.hentry .aux-portfolio-columns .aux-item-overlay .entry-title a, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-title a { color: #FFFFFF; }
+.hentry .aux-portfolio-columns .aux-item-overlay .entry-title a:hover, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-overlay .entry-title a:hover { color: #1bb0ce; }
+.hentry .aux-portfolio-columns .aux-overlay-content, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-overlay-content { position: absolute; top: 0; z-index: 1; width: 100%; text-align: center; padding: 1.5em; position: absolute; top: 50%; transform: translateY(-50%); overflow: hidden; }
+.hentry .aux-portfolio-columns .aux-portfolio-item-title, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-portfolio-item-title { color: white; font-size: 1.125em; font-weight: 600; }
+.hentry .aux-portfolio-columns .aux-portfolio-overlay-buttons, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-portfolio-overlay-buttons { width: 100%; }
+.hentry .aux-portfolio-columns .aux-item-classic .entry-main, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-item-classic .entry-main { margin-bottom: 0; }
+.hentry .aux-portfolio-columns .aux-arrow-post-link, .hentry .aux-portfolio-columns .aux-lightbox-btn, .hentry .aux-portfolio-columns .aux-hover-circle-plus, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-arrow-post-link, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-lightbox-btn, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-hover-circle-plus { display: inline-block; }
+.hentry .aux-portfolio-columns .aux-lightbox-btn, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-lightbox-btn { margin-right: 5px; }
+.hentry .aux-portfolio-columns .aux-entry-boxed .entry-media, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-entry-boxed .entry-media { margin-bottom: 0; }
+.hentry .aux-portfolio-columns .aux-entry-boxed .entry-info, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-entry-boxed .entry-info { margin-bottom: 10px; }
+.hentry .aux-portfolio-columns .aux-entry-boxed .entry-main, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-entry-boxed .entry-main { border-top: none; padding: 25px 30px 5px; }
+.hentry .aux-portfolio-columns .aux-entry-boxed .entry-main:after, .aux-widget-recent-portfolios .aux-portfolio-columns .aux-entry-boxed .entry-main:after { content: ""; display: table; clear: both; }
+
+/** Auxin recent portfolios */
+.aux-widget-recent-portfolios { position: relative; }
+.aux-widget-recent-portfolios .aux-isotope-ready .aux-col { margin-top: 0; }
+.aux-widget-recent-portfolios.aux-carousel { padding: 0 80px; position: relative; }
+.aux-widget-recent-portfolios .aux-filters { position: relative; z-index: 9; }
+.aux-widget-recent-portfolios .aux-filters:after { content: ""; display: table; clear: both; }
+.aux-widget-recent-portfolios .aux-filters.aux-right:not(.aux-dropdown-filter) { display: block; width: 100%; }
+.aux-widget-recent-portfolios .aux-filters.aux-right:not(.aux-dropdown-filter) > ul { display: inline-block; float: right; }
+.aux-widget-recent-portfolios .aux-filters.aux-center:not(.aux-dropdown-filter) { position: relative; left: 50%; display: inline-block; transform: translateX(-50%); }
+.aux-widget-recent-portfolios .aux-filters.aux-center:not(.aux-dropdown-filter) ul { margin-left: auto; }
+.aux-widget-recent-portfolios .widget-title + .aux-filters.aux-right { position: absolute; top: 0; right: 0; }
+@media screen and (max-width: 767px) { .aux-resp .aux-widget-recent-portfolios .widget-title + .aux-filters.aux-right { position: relative; float: left; } }
+.aux-widget-recent-portfolios .aux-tiles-layout { position: relative; }
+.aux-widget-recent-portfolios .aux-tiles-layout .aux-iso-item { float: left; height: 0; position: relative; overflow: hidden; }
+.aux-widget-recent-portfolios .aux-portfolio-columns:not(.aux-tiles-layout) { clear: both; }
+.aux-widget-recent-portfolios .aux-portfolio-columns:not(.aux-tiles-layout) .aux-iso-item .hentry { padding: 0; }
+.aux-widget-recent-portfolios .aux-isotope-layout { max-height: 500px; }
+.aux-widget-recent-portfolios .aux-isotope-layout.aux-isotope-ready { max-height: none; }
+.aux-widget-recent-portfolios .aux-mc-arrows { position: absolute; bottom: 50%; transform: translateY(50%); }
+.aux-widget-recent-portfolios .aux-prev { left: 0; }
+.aux-widget-recent-portfolios .aux-next { right: 0; left: auto; }

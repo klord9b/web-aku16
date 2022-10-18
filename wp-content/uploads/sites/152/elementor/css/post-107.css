@@ -1,0 +1,40 @@
+.elementor-107 .elementor-element.elementor-element-7fe8a57{margin-top:0px;margin-bottom:150px;padding:0px 35px 0px 35px;}.elementor-107 .elementor-element.elementor-element-f9423f1 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px;}.elementor-107 .elementor-element.elementor-element-18a4313{text-align:center;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-107 .elementor-element.elementor-element-18a4313 .elementor-heading-title{font-family:"Roboto Condensed", Sans-serif;font-size:61px;font-weight:900;}.elementor-107 .elementor-element.elementor-element-56d7eeb .aux-the-svg{width:300px;}.elementor-107 .elementor-element.elementor-element-56d7eeb .aux-widget-container{text-align:center;}.elementor-107 .elementor-element.elementor-element-56d7eeb{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-107 .elementor-element.elementor-element-548a602{--spacer-size:130px;}.elementor-107 .elementor-element.elementor-element-57b08df .entry-media img{border-radius:20px 20px 20px 20px !important;}.elementor-107 .elementor-element.elementor-element-57b08df .entry-title a{font-size:30px;font-weight:900;line-height:1em;}.elementor-107 .elementor-element.elementor-element-57b08df .entry-title{margin-bottom:20px;}.elementor-107 .elementor-element.elementor-element-57b08df .entry-info a, .elementor-107 .elementor-element.elementor-element-57b08df .entry-info{color:#B1BBBB;}.elementor-107 .elementor-element.elementor-element-57b08df .entry-info, .elementor-107 .elementor-element.elementor-element-57b08df .entry-info a{font-family:"Roboto Condensed", Sans-serif;font-size:20px;font-weight:300;letter-spacing:0.4px;}.elementor-107 .elementor-element.elementor-element-57b08df .entry-info{margin-bottom:30px;}.elementor-107 .elementor-element.elementor-element-57b08df .entry-content{font-size:18px;font-weight:normal;}.elementor-107 .elementor-element.elementor-element-57b08df .column-entry{padding:0px 0px 140px 0px;}.elementor-107 .elementor-element.elementor-element-57b08df .type-post .entry-main{padding:60px 35px 0px 35px;}.elementor-107 .elementor-element.elementor-element-57b08df .aux-col .column-entry{box-shadow:0px 8px 60px 0px rgba(156, 156, 156, 0.1607843137254902);}.elementor-107 .elementor-element.elementor-element-57b08df{text-align:left;animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}.elementor-107 .elementor-element.elementor-element-57b08df .entry-meta .aux-read-more{padding:0px 0px 70px 0px;}@media(max-width:1024px){.elementor-107 .elementor-element.elementor-element-548a602{--spacer-size:50px;}}@media(max-width:767px){.elementor-107 .elementor-element.elementor-element-18a4313 .elementor-heading-title{font-size:2.5em;}.elementor-107 .elementor-element.elementor-element-56d7eeb .aux-widget-container{text-align:center;}.elementor-107 .elementor-element.elementor-element-57b08df .entry-info, .elementor-107 .elementor-element.elementor-element-57b08df .entry-info a{line-height:1.5em;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-57b08df */.elementor-107 .elementor-element.elementor-element-57b08df .entry-media {
+    filter: drop-shadow(0 8px 35px #9C9C9C29);
+}
+.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-entry-boxed .post {
+    border-radius: 20px;
+}
+.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col :hover .entry-info a,.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col :hover .entry-info , .elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col :hover .entry-title a, .elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col :hover .entry-content, .elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col :hover .entry-meta a  {
+    color: var( --auxin-featured-color-3 );
+}
+
+.elementor-107 .elementor-element.elementor-element-57b08df .aux-col:hover .entry-meta span{
+    color: var( --auxin-featured-color-3 );
+}
+
+.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .post:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    height : 400px;
+    border-radius: 20px;
+    background-image: url('https://web-aku16-2.run-us-west2.goorm.io/site152/https://web-aku16-2.run-us-west2.goorm.io/wp-content/uploads/sites/152/2020/03/Blogback.png');
+    background-size: 100% 100%;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    opacity: 0;
+}
+.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col:hover .post:after {
+    opacity: 1;
+}
+.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col  .entry-info a, .elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col .entry-title a {
+    z-index: 1;
+}
+.elementor-107 .elementor-element.elementor-element-57b08df, .elementor-107 .elementor-element.elementor-element-57b08df:hover,.elementor-107 .elementor-element.elementor-element-57b08df .aux-entry-boxed .post, .elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col  .entry-info a,.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col .entry-info , .elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col .entry-title a, .elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col .entry-content,.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .aux-match-height .aux-col .entry-meta a,.elementor-107 .elementor-element.elementor-element-57b08df .aux-widget-recent-posts .post:after {
+    transition-property: all;
+    transition-delay: 0ms;
+    transition-duration: 500ms;
+    transition-timing-function: cubic-bezier(.25,.46,.45,.94);
+}/* End custom CSS */

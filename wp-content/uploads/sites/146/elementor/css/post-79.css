@@ -1,0 +1,15 @@
+.elementor-79 .elementor-element.elementor-element-5900817{margin-top:100px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-79 .elementor-element.elementor-element-94c4f40 .aux-modern-heading-primary{font-family:"Poppins", Sans-serif;font-size:50px;font-weight:600;line-height:72px;letter-spacing:-1px;color:#191919;margin:0px 0px 30px 0px;max-width:731px;}.elementor-79 .elementor-element.elementor-element-94c4f40{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-title a{color:#191919;font-family:"Poppins", Sans-serif;font-size:29px;font-weight:600;line-height:40px;}.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-title a:hover{color:#20D4FF;}.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-title{margin-bottom:0px;}.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-info a, .elementor-79 .elementor-element.elementor-element-80bfe06 .entry-info{color:#707070;}.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-info, .elementor-79 .elementor-element.elementor-element-80bfe06 .entry-info a{font-family:"Source Serif Pro", Sans-serif;font-size:16px;font-weight:700;text-transform:uppercase;letter-spacing:2.4px;}.elementor-79 .elementor-element.elementor-element-80bfe06{text-align:left;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-79 .elementor-element.elementor-element-94c4f40 .aux-modern-heading-primary{font-size:40px;line-height:60px;}}@media(max-width:767px){.elementor-79 .elementor-element.elementor-element-94c4f40 .aux-modern-heading-primary{font-size:30px;line-height:44px;letter-spacing:0px;}.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-title a{font-size:22px;line-height:34px;}.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-info, .elementor-79 .elementor-element.elementor-element-80bfe06 .entry-info a{font-size:14px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-80bfe06 */.elementor-79 .elementor-element.elementor-element-80bfe06 .aux-media-frame{
+    box-shadow: 0 3px 35px rgba(0,0,0,.14);
+}
+.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-meta{
+    display: none;
+}
+.elementor-79 .elementor-element.elementor-element-80bfe06 .entry-date:after{
+    content: '';
+    width: 6px;
+    height: 6px;
+    display: inline-block;
+    background-color: rgba(112, 112, 112, 0.3);
+    border-radius: 100%;
+    margin: 0 25px;
+}/* End custom CSS */

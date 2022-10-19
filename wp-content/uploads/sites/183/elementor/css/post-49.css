@@ -1,0 +1,42 @@
+.elementor-49 .elementor-element.elementor-element-9404c8c{padding:10px 0px 10px 0px;}.elementor-49 .elementor-element.elementor-element-81cdb6f.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:center;}.elementor-49 .elementor-element.elementor-element-bae1ef5 .aux-widget-container{text-align:left;}.elementor-49 .elementor-element.elementor-element-bae1ef5{position:absolute;max-width:521px;}.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-widget-testimonial .aux-testimonial-image{width:60px;}.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-image img{border-radius:100% 100% 100% 100%;overflow:hidden;}.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-image{margin-top:10px;margin-bottom:0px;}.elementor-49 .elementor-element.elementor-element-b4925f1 .col-title a, .elementor-49 .elementor-element.elementor-element-b4925f1 .col-title{color:var( --e-global-color-text );}.elementor-49 .elementor-element.elementor-element-b4925f1 .col-title, .elementor-49 .elementor-element.elementor-element-b4925f1 .col-title a{font-family:"Lato", Sans-serif;font-size:30px;font-weight:bold;line-height:1.4em;}.elementor-49 .elementor-element.elementor-element-b4925f1 .col-title{margin-top:10px;margin-bottom:0px;}.elementor-49 .elementor-element.elementor-element-b4925f1 .col-subtitle{color:#5E5E5E !important;font-family:"Open Sans", Sans-serif;font-size:14px;margin-bottom:0px;}.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-content{color:var( --e-global-color-text );font-family:"Open Sans", Sans-serif;font-size:16px;line-height:1.875em;}.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-content .entry-content{margin-top:0px;margin-bottom:0px;}.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-widget-testimonial{text-align:left;padding:0px 0px 0px 0px;box-shadow:0px 0px 0px 0px rgba(0, 0, 0, 0);}.elementor-49 .elementor-element.elementor-element-b4925f1 > .elementor-widget-container{margin:60px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-49 .elementor-element.elementor-element-b4925f1{width:auto;max-width:auto;}@media(max-width:1024px){.elementor-49 .elementor-element.elementor-element-b4925f1 .col-title, .elementor-49 .elementor-element.elementor-element-b4925f1 .col-title a{font-size:28px;}}@media(max-width:767px){.elementor-49 .elementor-element.elementor-element-bae1ef5 .aux-widget-container{text-align:center;}.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-content{font-size:15px;}}/* Start custom CSS for aux_simple_svg, class: .elementor-element-bae1ef5 */.elementor-49 .elementor-element.elementor-element-bae1ef5 svg path{
+    fill:var( --e-global-color-text ); 
+    transition:all 300ms ease-out;
+}/* End custom CSS */
+/* Start custom CSS for aux_testimonial, class: .elementor-element-b4925f1 */.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-widget-testimonial.aux-testimonial-image-top{
+    margin-top: 0;
+    display: flex;
+    flex-direction:column-reverse;
+    border: none;
+    
+}
+.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-infobox{
+    display: flex;
+    margin-top:30px;
+    align-items: center!important;
+}
+.elementor-49 .elementor-element.elementor-element-b4925f1 .entry-content{
+    max-width: 521px;
+}
+.elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-image{
+    margin-right:30px;
+    
+}
+@media only screen and (max-width:767px){
+    .elementor-49 .elementor-element.elementor-element-b4925f1 .entry-content{
+        text-align:center;
+    }
+    .elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-infobox{
+        justify-content:center;
+    }
+}
+@media only screen and (max-width:320px){
+    .elementor-49 .elementor-element.elementor-element-b4925f1 .aux-testimonial-image{
+        margin-right:20px!important;
+    }
+    .elementor-49 .elementor-element.elementor-element-b4925f1 .col-title{
+        font-size:18px!important
+    }
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-81cdb6f */.elementor-49 .elementor-element.elementor-element-81cdb6f .elementor-element-populated:hover svg path{
+    fill:var( --e-global-color-primary ); 
+    }/* End custom CSS */

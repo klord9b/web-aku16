@@ -1,0 +1,25 @@
+.elementor-75 .elementor-element.elementor-element-263c8e5 > .elementor-element-populated > .elementor-widget-wrap{padding:40px 0px 40px 0px;}.elementor-75 .elementor-element.elementor-element-9e2c685 .aux-widget-text .aux-text-widget-header{padding:0px 0px 0px 0px;}.elementor-75 .elementor-element.elementor-element-9e2c685 .aux-ico-box{box-shadow:0px 7px 25px 0px rgba(0, 29, 133, 0.34901960784313724);background-color:var( --e-global-color-50ccadc );transition:all 250ms ease;}.elementor-75 .elementor-element.elementor-element-9e2c685:hover .aux-ico-box{box-shadow:0px 7px 25px 0px rgba(126, 255, 224, 0.34901960784313724);background-color:var( --e-global-color-3f477370 );}.elementor-75 .elementor-element.elementor-element-9e2c685 .col-title a, .elementor-75 .elementor-element.elementor-element-9e2c685 .col-title{color:var( --e-global-color-679ecb33 );}.elementor-75 .elementor-element.elementor-element-9e2c685:hover .col-title a, .elementor-75 .elementor-element.elementor-element-9e2c685:hover .col-title{color:var( --e-global-color-3f477370 );}.elementor-75 .elementor-element.elementor-element-9e2c685 .col-title, .elementor-75 .elementor-element.elementor-element-9e2c685 .col-title a{font-size:27px;font-weight:600;text-transform:capitalize;line-height:1.3em;}.elementor-75 .elementor-element.elementor-element-9e2c685 .aux-widget-text .aux-text-widget-content{padding:50px 0px 0px 0px;}.elementor-75 .elementor-element.elementor-element-9e2c685 .aux-widget-advanced-text{text-align:left !important;padding:60px 50px 55px 65px;background-color:#FFFFFF;}.elementor-75 .elementor-element.elementor-element-9e2c685 .aux-text-widget-overlay, .elementor-75 .elementor-element.elementor-element-9e2c685 .aux-widget-advanced-text{border-radius:5px 5px 5px 5px;}.elementor-75 .elementor-element.elementor-element-9e2c685 > .elementor-widget-container{padding:0px 0px 0px 0px;}.elementor-75 .elementor-element.elementor-element-9e2c685{width:auto;max-width:auto;}@media(max-width:1024px){.elementor-75 .elementor-element.elementor-element-9e2c685 .col-title, .elementor-75 .elementor-element.elementor-element-9e2c685 .col-title a{font-size:25px;}}@media(max-width:767px){.elementor-75 .elementor-element.elementor-element-9e2c685 .col-title, .elementor-75 .elementor-element.elementor-element-9e2c685 .col-title a{font-size:22px;}}/* Start custom CSS for aux_text, class: .elementor-element-9e2c685 */.elementor-75 .elementor-element.elementor-element-9e2c685{
+    width: 429px !important;
+}
+.elementor-75 .elementor-element.elementor-element-9e2c685 .aux-widget-advanced-text{
+    box-shadow: 0px 7px 65px #0000000F;
+    transition:all 250ms ease-in;
+}
+.elementor-75 .elementor-element.elementor-element-9e2c685 .aux-ico-box{
+    margin: 0;
+    padding: 0;
+    background: var(--e-global-color-50ccadc);
+    border-radius: 5px;
+    padding: 16px 22px !important;
+}
+.elementor-75 .elementor-element.elementor-element-9e2c685 .aux-text-inner{
+    padding-right: 30px
+}
+.elementor-75 .elementor-element.elementor-element-9e2c685:hover path{
+    fill:var(--e-global-color-50ccadc);
+}
+@media screen and (max-width:900px){
+    .elementor-75 .elementor-element.elementor-element-9e2c685{
+        width: 400px !important;
+    }
+}/* End custom CSS */

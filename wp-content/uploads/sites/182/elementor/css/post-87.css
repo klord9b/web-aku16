@@ -1,0 +1,63 @@
+.elementor-87 .elementor-element.elementor-element-3f29c5f:not(.elementor-motion-effects-element-type-background), .elementor-87 .elementor-element.elementor-element-3f29c5f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-87 .elementor-element.elementor-element-3f29c5f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:60px 35px 60px 35px;}.elementor-87 .elementor-element.elementor-element-3f29c5f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-87 .elementor-element.elementor-element-2fc3077 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-87 .elementor-element.elementor-element-2fc3077 .aux-modern-heading-primary{font-size:69px;font-weight:600;text-transform:uppercase;color:var( --e-global-color-68231e7 );margin:0px 0px 0px 0px;}.elementor-87 .elementor-element.elementor-element-5e85873{margin-top:175px;margin-bottom:100px;padding:0px 35px 0px 35px;}.elementor-87 .elementor-element.elementor-element-829ea3e .entry-media img{border-radius:10px 10px 0px 0px !important;}.elementor-87 .elementor-element.elementor-element-829ea3e .entry-title a{color:var( --e-global-color-68231e7 );font-size:26px;font-weight:500;text-transform:capitalize;}.elementor-87 .elementor-element.elementor-element-829ea3e .entry-info a, .elementor-87 .elementor-element.elementor-element-829ea3e .entry-info{color:var( --e-global-color-68231e7 );}.elementor-87 .elementor-element.elementor-element-829ea3e .entry-info, .elementor-87 .elementor-element.elementor-element-829ea3e .entry-info a{font-size:16px;font-weight:300;font-style:italic;}.elementor-87 .elementor-element.elementor-element-829ea3e .type-post .entry-main{padding:35px 40px 35px 40px;}.elementor-87 .elementor-element.elementor-element-829ea3e{text-align:left;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-87 .elementor-element.elementor-element-2fc3077 .aux-modern-heading-primary{font-size:55px;}.elementor-87 .elementor-element.elementor-element-5e85873{margin-top:80px;margin-bottom:80px;}.elementor-87 .elementor-element.elementor-element-829ea3e .entry-title a{font-size:19px;}.elementor-87 .elementor-element.elementor-element-829ea3e .entry-info, .elementor-87 .elementor-element.elementor-element-829ea3e .entry-info a{font-size:14px;}.elementor-87 .elementor-element.elementor-element-829ea3e .type-post .entry-main{padding:25px 15px 25px 25px;}}@media(max-width:767px){.elementor-87 .elementor-element.elementor-element-2fc3077 .aux-modern-heading-primary{font-size:40px;}.elementor-87 .elementor-element.elementor-element-5e85873{margin-top:80px;margin-bottom:80px;}.elementor-87 .elementor-element.elementor-element-829ea3e .entry-title a{font-size:18px;}.elementor-87 .elementor-element.elementor-element-829ea3e .entry-info, .elementor-87 .elementor-element.elementor-element-829ea3e .entry-info a{font-size:14px;}.elementor-87 .elementor-element.elementor-element-829ea3e .type-post .entry-main{padding:20px 20px 20px 20px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-829ea3e */.elementor-87 .elementor-element.elementor-element-829ea3e .entry-media{
+    margin-bottom: 0;
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .entry-main{
+    background-color: var(--e-global-color-secondary);
+    transition:all 250ms ease-in;
+    border-radius: 0px 0px 10px 10px;
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .aux-col:hover .entry-main{
+    background-color: var(--e-global-color-primary);
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .aux-col{
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom:20px
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .aux-row{
+    margin-left: -25px;
+    margin-right: -25px;
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .hentry .entry-info [class^="entry-"] ~ [class^="entry-"]:before{
+    background-color: transparent;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-87 .elementor-element.elementor-element-829ea3e .entry-title a{
+        font-size: 22px !important;
+    }
+    .elementor-87 .elementor-element.elementor-element-829ea3e .entry-info a{
+        font-size: 15px !important;
+    }
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .aux-circle{
+    display: none;
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .aux-load-more{
+    height: 50px;
+    width: 200px;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 50px;
+    transition: all 250ms ease-in;
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .aux-load-more:hover{
+    background-color: var(--e-global-color-primary); 
+    
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .aux-label-text , .elementor-87 .elementor-element.elementor-element-829ea3e  .aux-load-more .aux-loading-label{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 45px;
+    text-transform: capitalize;
+    top:2px;
+    color: #fff;
+    font-weight: 500;
+}
+.elementor-87 .elementor-element.elementor-element-829ea3e .widget-container[class*="aux-ajax-type"] .aux-ajax-view {
+    margin-bottom: 60px
+}
+
+@media only screen and (max-width:320px){
+    .elementor-87 .elementor-element.elementor-element-829ea3e .widget-container .aux-load-more{
+        width:100%;
+        margin-bottom:0px;
+    }}/* End custom CSS */

@@ -1,0 +1,20 @@
+.elementor-65 .elementor-element.elementor-element-22b4af3{padding:25px 5px 25px 5px;}.elementor-65 .elementor-element.elementor-element-0c27fc8 .col-title a, .elementor-65 .elementor-element.elementor-element-0c27fc8 .col-title{color:var( --e-global-color-2f4cf135 );}.elementor-65 .elementor-element.elementor-element-0c27fc8 .col-title, .elementor-65 .elementor-element.elementor-element-0c27fc8 .col-title a{font-size:27px;font-weight:600;}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-staff-content  .col-title{margin-bottom:0px;}.elementor-65 .elementor-element.elementor-element-0c27fc8 .col-subtitle{color:var( --e-global-color-5fce40d5 );}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-staff-content  .col-subtitle{font-size:20px;font-weight:400;font-style:normal;}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-social-list a{color:var( --e-global-color-2f4cf135 );}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-social-list a:hover{color:var( --e-global-color-5fce40d5 );}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-widget-staff > div{padding:16px 0px 10px 20px;}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-widget-staff .aux-staff-content{padding:0px 20px 0px 30px;}.elementor-65 .elementor-element.elementor-element-0c27fc8 > .elementor-widget-container{background-color:#FFFFFF;border-radius:20px 20px 20px 20px;box-shadow:0px 3px 35px 0px rgba(0, 0, 0, 0.09);}@media(max-width:767px){.elementor-65 .elementor-element.elementor-element-0c27fc8 .col-title, .elementor-65 .elementor-element.elementor-element-0c27fc8 .col-title a{font-size:24px;}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-staff-content  .col-subtitle{font-size:17px;}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-widget-staff > div{padding:20px 0px 10px 0px;}.elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-widget-staff .aux-staff-content{padding:0px 10px 0px 10px;}}/* Start custom CSS for aux_staff, class: .elementor-element-0c27fc8 */.elementor-65 .elementor-element.elementor-element-0c27fc8 li{
+    padding-right: 10px;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-65 .elementor-element.elementor-element-0c27fc8 .col-title{
+        font-size: 25px !important;
+    }
+    .elementor-65 .elementor-element.elementor-element-0c27fc8 .col-subtitle{
+        font-size: 18px !important;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-staff-content{
+        text-align:center
+    }
+    .elementor-65 .elementor-element.elementor-element-0c27fc8 .aux-social-list{
+        display:flex;
+        justify-content:center;
+    }
+}/* End custom CSS */

@@ -1,0 +1,70 @@
+.elementor-55 .elementor-element.elementor-element-6f4d6ff .aux-widget-container{text-align:center;}.elementor-55 .elementor-element.elementor-element-6f4d6ff{width:auto;max-width:auto;position:absolute;top:-30px;right:-40px;}.elementor-55 .elementor-element.elementor-element-6f4d6ff > .elementor-widget-container{transition-timing-function:cubic-bezier(0.165,0.84,0.44,1);transition-duration:1000ms;transition-property:all;}.elementor-55 .elementor-element.elementor-element-f31823b{padding:70px 35px 20px 35px;}.elementor-bc-flex-widget .elementor-55 .elementor-element.elementor-element-34886fd.elementor-column .elementor-column-wrap{align-items:center;}.elementor-55 .elementor-element.elementor-element-34886fd.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-55 .elementor-element.elementor-element-34886fd.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:space-between;}.elementor-55 .elementor-element.elementor-element-ba65875 > .elementor-widget-container{margin:0px 96px 0px 0px;}.elementor-55 .elementor-element.elementor-element-ba65875{width:auto;max-width:auto;animation-duration:1600ms;animation-delay:200ms;animation-timing-function:cubic-bezier(0.77,0,0.175,1);}.elementor-55 .elementor-element.elementor-element-fbe5495{text-align:left;width:auto;max-width:auto;animation-delay:200ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);flex-grow:1;}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-menu-depth-0 > .aux-item-content{color:#B1B1B1;font-size:16px;font-weight:normal;text-transform:capitalize;line-height:1.5em;padding:0px 28px 0px 0px;}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --e-global-color-primary );}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-menu-depth-0.aux-hover > .aux-item-content{line-height:1.5em;}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-menu-depth-0.current-menu-item > a{color:var( --e-global-color-primary );}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-fs-menu .aux-menu-item > .aux-item-content{color:var( --e-global-color-secondary );font-family:"Poppins", Sans-serif;font-weight:600;}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-fs-menu .aux-menu-item.aux-hover > .aux-item-content{color:var( --e-global-color-text );}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-fs-popup{background-color:var( --e-global-color-primary );}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-fs-popup .aux-panel-close{border-color:var( --e-global-color-secondary );}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-fs-popup .aux-panel-close .aux-close:before{background-color:var( --e-global-color-secondary );}.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-fs-popup .aux-panel-close .aux-close:after{background-color:var( --e-global-color-secondary );}.elementor-55 .elementor-element.elementor-element-236b9e1 .aux-search-submit i{font-size:22px;}.elementor-55 .elementor-element.elementor-element-236b9e1 .aux-search-submit:hover i{color:var( --e-global-color-primary );}.elementor-55 .elementor-element.elementor-element-236b9e1 .aux-search-submit{cursor:pointer;}.elementor-55 .elementor-element.elementor-element-236b9e1 .aux-search-popup .aux-search-input-form{border-width:2px;}.elementor-55 .elementor-element.elementor-element-236b9e1 .aux-search-popup .aux-submit-icon-container:before{font-size:30px;}.elementor-55 .elementor-element.elementor-element-236b9e1{width:auto;max-width:auto;animation-duration:1600ms;animation-delay:400ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:30px;padding:0px 0px 30px 0px;}}@media(max-width:767px){.elementor-55 .elementor-element.elementor-element-f31823b{padding:40px 35px 20px 35px;}}/* Start custom CSS for aux_simple_svg, class: .elementor-element-6f4d6ff */@media only screen and (max-width:320px){
+    .elementor-55 .elementor-element.elementor-element-6f4d6ff  {
+        right:-80px!important;
+        
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_logo, class: .elementor-element-ba65875 */@media only screen and (max-width:1024px) and (min-width:801px){
+    .elementor-55 .elementor-element.elementor-element-ba65875 .elementor-widget-container {
+    margin: 0px 0px 0px 0px!important;
+}
+        
+}
+@media only screen and (max-width:860px){
+    .elementor-55 .elementor-element.elementor-element-ba65875{
+        flex-grow:1;
+    }
+}
+@media only screen and (max-width:320px){
+    .elementor-55 .elementor-element.elementor-element-ba65875 .elementor-widget-container{
+       margin-right:45px!important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_menu_box, class: .elementor-element-fbe5495 */@media only screen and (max-width:1024px) and (min-width:801px){
+    .elementor-55 .elementor-element.elementor-element-fbe5495{
+        flex-grow:unset!important;
+            }
+    
+}
+@media only screen and (max-width:860px){
+    .elementor-55 .elementor-element.elementor-element-fbe5495{
+        flex-grow:0!important;
+        margin-left:10px;
+        order:3;
+        margin-right:77px;
+    }
+    
+}
+@media only screen and (max-width:414px){
+    .elementor-55 .elementor-element.elementor-element-fbe5495{
+       margin-right:50px;
+    }
+    
+}
+@media only screen and (max-width:320px){
+    .elementor-55 .elementor-element.elementor-element-fbe5495{
+       margin-right:0px;
+    }
+    
+}
+.elementor-55 .elementor-element.elementor-element-fbe5495 .aux-item-content .aux-menu-label{
+    transition:all 300ms ease-out;
+}/* End custom CSS */
+/* Start custom CSS for aux_modern_search, class: .elementor-element-236b9e1 */@media only screen and (max-width:1700px) and (min-width:861px){
+    .elementor-55 .elementor-element.elementor-element-236b9e1{
+        margin-right:77px;
+    }
+}
+@media only screen and (max-width:1024px) and (min-width:801px){
+    .elementor-55 .elementor-element.elementor-element-236b9e1 {
+    margin: 0px 30px 0px 0px!important;
+}
+.elementor-55 .elementor-element.elementor-element-236b9e1 .aux-modern-search .aux-search-popup .aux-search-popup-content{
+    width:90%;
+    margin:auto;
+}
+        
+}
+.elementor-55 .elementor-element.elementor-element-236b9e1 .auxicon-search-4:before{
+    transition: all 300ms ease-out;
+}/* End custom CSS */

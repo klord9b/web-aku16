@@ -1,0 +1,53 @@
+.elementor-82 .elementor-element.elementor-element-38af284 > .elementor-container{max-width:1426px;}.elementor-82 .elementor-element.elementor-element-38af284{margin-top:178px;margin-bottom:214px;padding:0px 35px 0px 35px;}.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-title a{font-size:19px;font-weight:bold;line-height:1.4em;letter-spacing:0.38px;}.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-info a, .elementor-82 .elementor-element.elementor-element-44b11c2 .entry-info{color:#232323;}.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-info, .elementor-82 .elementor-element.elementor-element-44b11c2 .entry-info a{font-size:15px;font-weight:400;letter-spacing:3.31px;}.elementor-82 .elementor-element.elementor-element-44b11c2 .type-post .entry-main{padding:4% 9% 2% 16%;}.elementor-82 .elementor-element.elementor-element-44b11c2{text-align:left;}.elementor-82 .elementor-element.elementor-element-f409918 .aux-modern-button-wrapper{text-align:center;}.elementor-82 .elementor-element.elementor-element-f409918 .aux-modern-button.aux-modern-button-outline .aux-overlay:before, .elementor-82 .elementor-element.elementor-element-f409918 .aux-modern-button .aux-overlay:before{background-color:transparent;background-image:linear-gradient(0deg, var( --e-global-color-text ) 0%, var( --e-global-color-323e2acb ) 100%);}.elementor-82 .elementor-element.elementor-element-f409918 .aux-modern-button{padding:20px 47px 20px 047px;}.elementor-82 .elementor-element.elementor-element-f409918 .aux-modern-button.aux-modern-button-outline .aux-overlay:after, .elementor-82 .elementor-element.elementor-element-f409918 .aux-modern-button .aux-overlay:after{background-color:#000000;}.elementor-82 .elementor-element.elementor-element-f409918 .aux-text{font-family:"Playfair Display", Sans-serif;font-size:16px;font-weight:bold;text-transform:uppercase;line-height:1.4em;}.elementor-82 .elementor-element.elementor-element-f409918 .aux-modern-button:hover .aux-text{color:#FFFFFF;}.elementor-82 .elementor-element.elementor-element-f409918 > .elementor-widget-container{margin:30px 0px 10px 0px;}@media(max-width:1024px){.elementor-82 .elementor-element.elementor-element-38af284{margin-top:80px;margin-bottom:50px;}.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-title a{font-size:18px;}}@media(max-width:767px){.elementor-82 .elementor-element.elementor-element-f409918 > .elementor-widget-container{margin:0px 0px 0px 0px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-44b11c2 */.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-media{
+    position: relative;
+}
+.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-main{
+    position: absolute;
+    bottom: 23px;
+    padding-top: 20px;
+    background: linear-gradient(180deg, rgba(255,236,210,1) 0%, rgba(252,182,159,1) 100%);
+    width: 83%;
+    transition: all 200ms linear;
+}
+
+.elementor-82 .elementor-element.elementor-element-44b11c2 .post:hover .entry-main {
+background:#1E3C72!important;
+
+}
+.elementor-82 .elementor-element.elementor-element-44b11c2 .post:hover .entry-title a {
+  color:#fff;
+}
+.elementor-82 .elementor-element.elementor-element-44b11c2 .post:hover .entry-date a{
+  color:rgba(255, 255, 255, 0.60)!important;
+}
+.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-content{
+    display: none;
+}
+.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-date a, .elementor-82 .elementor-element.elementor-element-44b11c2 .entry-title a{
+    transition: all 200ms linear;
+}
+.elementor-82 .elementor-element.elementor-element-44b11c2 .entry-title:after{
+    content: "";
+    width: 20px;
+    height: 20px;
+    background-image: url(/demos/beauty-fashion/wp-content/wp-content/uploads/sites/210/2020/07/Group_18841-1.svg);
+    background-size: 18px;
+    top: 10px;
+    left: -31px;
+    position: absolute;
+    background-repeat: no-repeat;
+    transition: all 200ms linear;
+}
+.elementor-82 .elementor-element.elementor-element-44b11c2 .post:hover .entry-title:after{
+    background-image: url(/demos/beauty-fashion/wp-content/wp-content/uploads/sites/210/2020/07/Group_18841-1-2.svg);
+    
+}
+@media only screen and (min-width: 1025px) {
+.elementor-82 .elementor-element.elementor-element-44b11c2 .aux-col{
+    margin-top: 14px;
+    padding-left: 23px;
+    padding-right: 23px;
+}}/* End custom CSS */
+/* Start custom CSS for aux_modern_button, class: .elementor-element-f409918 */.elementor-82 .elementor-element.elementor-element-f409918 .aux-modern-button.aux-black .aux-overlay:before{
+    background: linear-gradient(0deg, rgba(252,182,159,1) 36%, rgba(255,236,210,1) 87%);
+}/* End custom CSS */

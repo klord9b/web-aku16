@@ -1,0 +1,72 @@
+.elementor-58 .elementor-element.elementor-element-2ca234e{margin-top:30px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-58 .elementor-element.elementor-element-3e11e91.elementor-column > .elementor-widget-wrap{justify-content:space-between;}.elementor-58 .elementor-element.elementor-element-2abc934 .aux-widget-container{text-align:center;}.elementor-58 .elementor-element.elementor-element-2abc934{width:auto;max-width:auto;z-index:2;position:absolute;top:-75px;left:calc( 50% + -10% );animation-duration:1800ms;animation-delay:200ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-58 .elementor-element.elementor-element-2abc934 > .elementor-widget-container{transition-timing-function:cubic-bezier(0.165,0.84,0.44,1);transition-duration:1500ms;transition-property:all;}.elementor-58 .elementor-element.elementor-element-32405fa .aux-widget-container{text-align:center;}.elementor-58 .elementor-element.elementor-element-32405fa{width:auto;max-width:auto;z-index:3;position:absolute;top:-100px;left:calc( 50% + -11% );animation-duration:1800ms;animation-delay:400ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-58 .elementor-element.elementor-element-32405fa > .elementor-widget-container{transition-timing-function:cubic-bezier(0.165,0.84,0.44,1);transition-duration:1500ms;transition-property:all;}.elementor-58 .elementor-element.elementor-element-ccf46a3 .aux-widget-container{text-align:center;}.elementor-58 .elementor-element.elementor-element-ccf46a3{width:auto;max-width:auto;position:absolute;top:-98px;right:-130px;animation-duration:1800ms;animation-delay:400ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-58 .elementor-element.elementor-element-ccf46a3 > .elementor-widget-container{transition-timing-function:cubic-bezier(0.165,0.84,0.44,1);transition-duration:1100ms;transition-property:all;}.elementor-58 .elementor-element.elementor-element-32bfcd0.elementor-column > .elementor-widget-wrap{justify-content:space-between;}.elementor-58 .elementor-element.elementor-element-c637529{width:auto;max-width:auto;z-index:4;animation-duration:1700ms;animation-delay:200ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-58 .elementor-element.elementor-element-1516376{text-align:left;width:auto;max-width:auto;align-self:center;z-index:1;animation-duration:1700ms;animation-delay:200ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-58 .elementor-element.elementor-element-1516376 .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-58 .elementor-element.elementor-element-1516376 .aux-burger:before,  .elementor-58 .elementor-element.elementor-element-1516376 .aux-burger:after, .elementor-58 .elementor-element.elementor-element-1516376 .aux-burger .mid-line{border-color:#1C1C1C !important;}.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu .aux-menu-item > .aux-item-content{color:#212121;font-size:50px;font-weight:bold;text-transform:capitalize;padding:20px 0px 20px 0px;}.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu .aux-menu-item {background-color:var( --e-global-color-primary );}.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-popup{background-color:var( --e-global-color-primary );}.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-popup .aux-panel-close{border-color:var( --e-global-color-8d8d58d );}.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-popup .aux-panel-close .aux-close:before{background-color:var( --e-global-color-8d8d58d );}.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-popup .aux-panel-close .aux-close:after{background-color:var( --e-global-color-8d8d58d );}@media(max-width:1024px){.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:40px;}}@media(max-width:767px){.elementor-58 .elementor-element.elementor-element-2abc934{top:-105px;left:0px;}.elementor-58 .elementor-element.elementor-element-32405fa{top:-120px;left:0px;}.elementor-58 .elementor-element.elementor-element-ccf46a3{top:-80px;right:-150px;}.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:30px;}}/* Start custom CSS for aux_simple_svg, class: .elementor-element-2abc934 */@media screen and (max-width:767px){
+    .elementor-58 .elementor-element.elementor-element-2abc934 svg{
+        width:70%;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_simple_svg, class: .elementor-element-32405fa */@media screen and (max-width:767px){
+    .elementor-58 .elementor-element.elementor-element-32405fa svg{
+        width:70%;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_simple_svg, class: .elementor-element-ccf46a3 */@media screen and (max-width:767px){
+    .elementor-58 .elementor-element.elementor-element-ccf46a3 svg{
+        width:70%;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_menu_box, class: .elementor-element-1516376 */.elementor-58 .elementor-element.elementor-element-1516376 .mid-line{
+    margin: 4px 0;
+}
+.elementor-58 .elementor-element.elementor-element-1516376 .aux-burger::before , .elementor-58 .elementor-element.elementor-element-1516376 .aux-burger::after{
+    width: 75%;
+    margin-left: auto;
+}
+.elementor-58 .elementor-element.elementor-element-1516376 .aux-burger[class*="thick"]::after {
+    border-width:4px;
+    
+}
+.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu:after{
+    content: "";
+    width: 230px;
+    height: 244px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='272.195' height='259.837' viewBox='0 0 272.195 259.837'%3E%3Cg id='Group_18843' data-name='Group 18843' transform='translate(115.168 -726.163)'%3E%3Cpath id='Polygon_3' data-name='Polygon 3' d='M84.92,20.836a14,14,0,0,1,24.21,0l72.7,125.131A14,14,0,0,1,169.725,167H24.325A14,14,0,0,1,12.22,145.967Z' transform='translate(81.205 726.163) rotate(67)' fill='%23f21c4f'/%3E%3Cg id='Polygon_4' data-name='Polygon 4' transform='translate(42.238 736.879) rotate(67)' fill='none'%3E%3Cpath d='M86.91,20.921a14,14,0,0,1,24.23,0l74.74,129.063A14,14,0,0,1,173.765,171H24.285A14,14,0,0,1,12.17,149.984Z' stroke='none'/%3E%3Cpath d='M 99.02516174316406 19.936767578125 C 96.09428405761719 19.936767578125 93.57095336914063 21.39141845703125 92.10221862792969 23.92771911621094 L 17.36239624023438 152.9909515380859 C 15.91195678710938 155.4956207275391 15.90901184082031 158.4879760742188 17.35453796386719 160.9954833984375 C 18.80007934570313 163.5029754638672 21.39102172851563 165 24.28533935546875 165 L 173.7650146484375 165 C 176.6593322753906 165 179.2503051757813 163.5029754638672 180.6958312988281 160.9954833984375 C 182.1413726806641 158.4879455566406 182.138427734375 155.4956207275391 180.68798828125 152.9909515380859 L 105.9481353759766 23.92771911621094 C 104.4794006347656 21.39141845703125 101.9560775756836 19.936767578125 99.02516174316406 19.936767578125 M 99.02517700195313 13.936767578125 C 103.7346115112305 13.936767578125 108.4440460205078 16.26481628417969 111.1403656005859 20.92091369628906 L 185.8802185058594 149.9841613769531 C 191.2851104736328 159.3174743652344 184.5503692626953 171 173.7650146484375 171 L 24.28533935546875 171 C 13.50001525878906 171 6.765274047851563 159.3174743652344 12.170166015625 149.9841613769531 L 86.90998840332031 20.92091369628906 C 89.60630798339844 16.26481628417969 94.31574249267578 13.936767578125 99.02517700195313 13.936767578125 Z' stroke='none' fill='%23212121'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    position:absolute;
+    bottom: 0px;
+    left: -80px;
+}
+.elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu:before{
+    content: "";
+    width: 112px;
+    height: 112px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='137.62' height='112.334' viewBox='0 0 137.62 112.334'%3E%3Cg id='Group_18842' data-name='Group 18842' transform='translate(-1535.62 -813.465)'%3E%3Cpath id='Polygon_41' data-name='Polygon 41' d='M47.965,4.95a7,7,0,0,1,9.9,0l43.015,43.015a7,7,0,0,1,0,9.9L57.864,100.879a7,7,0,0,1-9.9,0L4.95,57.864a7,7,0,0,1,0-9.9Z' transform='matrix(-0.035, 0.999, -0.999, -0.035, 1673.24, 820.035)' fill='%23fce72b'/%3E%3Cg id='Polygon_42' data-name='Polygon 42' transform='matrix(-0.035, 0.999, -0.999, -0.035, 1647.699, 817.247)' fill='none'%3E%3Cpath d='M49.232,4.95a7,7,0,0,1,9.9,0l44.282,44.282a7,7,0,0,1,0,9.9L59.132,103.414a7,7,0,0,1-9.9,0L4.95,59.132a7,7,0,0,1,0-9.9Z' stroke='none'/%3E%3Cpath d='M 54.18181228637695 6.899490356445313 C 53.3804931640625 6.899490356445313 52.62712860107422 7.211540222167969 52.06051254272461 7.778175354003906 L 7.778175354003906 52.06047439575195 C 6.608474731445313 53.23017120361328 6.608474731445313 55.13340759277344 7.778175354003906 56.30310440063477 L 52.06051254272461 100.5854034423828 C 52.62712860107422 101.1520385742188 53.3804931640625 101.4640884399414 54.18181228637695 101.4640884399414 C 54.9831428527832 101.4640884399414 55.73651123046875 101.1520385742188 56.30312728881836 100.5854034423828 L 100.5854797363281 56.30310440063477 C 101.1520919799805 55.73647308349609 101.4641571044922 54.98312377929688 101.4641571044922 54.18178939819336 C 101.4641571044922 53.38045501708984 101.1520919799805 52.62710571289063 100.5854644775391 52.06047439575195 L 56.30312728881836 7.778175354003906 C 55.73651123046875 7.211540222167969 54.9831428527832 6.899490356445313 54.18181228637695 6.899490356445313 M 54.18181991577148 2.899490356445313 C 55.97327423095703 2.899490356445313 57.76472854614258 3.582908630371094 59.13156127929688 4.949737548828125 L 103.4138946533203 49.23204040527344 C 106.147575378418 51.96570587158203 106.147575378418 56.39787292480469 103.4138946533203 59.13153839111328 L 59.13156127929688 103.4138412475586 C 56.39789581298828 106.1475067138672 51.96574401855469 106.1475067138672 49.23207855224609 103.4138412475586 L 4.949745178222656 59.13153839111328 C 2.216079711914063 56.39787292480469 2.216079711914063 51.96570587158203 4.949745178222656 49.23204040527344 L 49.23207855224609 4.949737548828125 C 50.59891128540039 3.582908630371094 52.39036560058594 2.899490356445313 54.18181991577148 2.899490356445313 Z' stroke='none' fill='%23031437'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    position:absolute;
+    bottom: 0px;
+    right: 200px;
+    z-index: 9;
+}
+.elementor-58 .elementor-element.elementor-element-1516376 .aux-menu-depth-0.current-menu-item .aux-menu-label{
+    -webkit-text-stroke: 2px #212121;
+    -moz-text-stroke: 2px #212121;
+    text-stroke: 2px #212121;
+    color: transparent;
+}
+@media screen and (max-width:767px){
+    .elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu:before{
+        right:10px;
+    }
+    .elementor-58 .elementor-element.elementor-element-1516376 .aux-fs-menu:after{
+        left:-100px;
+    }
+}
+@media screen and (max-width: 1024px){
+.aux-fs-popup .aux-panel-close {
+    right: 0;
+    left: unset;
+}}/* End custom CSS */

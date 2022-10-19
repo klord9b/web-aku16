@@ -1,0 +1,83 @@
+.elementor-88 .elementor-element.elementor-element-5cf5d0f:not(.elementor-motion-effects-element-type-background), .elementor-88 .elementor-element.elementor-element-5cf5d0f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-88 .elementor-element.elementor-element-5cf5d0f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:60px 35px 60px 35px;}.elementor-88 .elementor-element.elementor-element-5cf5d0f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-88 .elementor-element.elementor-element-8664d83 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-88 .elementor-element.elementor-element-8664d83 .aux-modern-heading-primary{font-size:69px;font-weight:600;text-transform:uppercase;color:var( --e-global-color-68231e7 );margin:0px 0px 0px 0px;}.elementor-88 .elementor-element.elementor-element-8664d83{animation-duration:1900ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-88 .elementor-element.elementor-element-72a8779{margin-top:100px;margin-bottom:150px;}.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-media-image{border-radius:13px 13px 0px 0px !important;}.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-header .entry-title a{color:var( --e-global-color-text );font-size:23px;font-weight:600;text-transform:capitalize;}.elementor-88 .elementor-element.elementor-element-dc680c7  .entry-header{margin-bottom:0px;}.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-tax a{color:#212121BF;}.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-tax{font-size:16px;font-weight:500;font-style:normal;margin-bottom:0px;}.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-tax a:after{margin-right:4px;margin-left:4px;}.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-iso-item{margin-bottom:30px !important;}.elementor-88 .elementor-element.elementor-element-dc680c7 > .elementor-widget-container{margin:50px 100px 0px 100px;}@media(max-width:1024px){.elementor-88 .elementor-element.elementor-element-8664d83 .aux-modern-heading-primary{font-size:55px;}.elementor-88 .elementor-element.elementor-element-72a8779{margin-top:40px;margin-bottom:80px;}.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-header .entry-title a{font-size:20px;}.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-tax{font-size:15px;}.elementor-88 .elementor-element.elementor-element-dc680c7 > .elementor-widget-container{margin:50px 55px 0px 55px;}}@media(max-width:767px){.elementor-88 .elementor-element.elementor-element-8664d83 .aux-modern-heading-primary{font-size:40px;}.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-header .entry-title a{font-size:18px;}.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-tax{font-size:14px;}.elementor-88 .elementor-element.elementor-element-dc680c7 > .elementor-widget-container{margin:50px 45px 0px 45px;}}/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-dc680c7 */.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-media{
+    margin-bottom: 0px;
+    box-shadow: 0px 16px 35px #00000012;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-main{
+    background-color: var(--e-global-color-primary);
+    border-radius: 0px 0px 13px 13px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 10px;
+    box-shadow: 0px 16px 35px #00000012;
+    transition: all 250ms ease-in;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-info{
+    margin-bottom: 5px;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .entry-tax a::after{
+    background-color: rgba(33, 33, 33, 0.75);
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .wpulike{
+    display: none;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-col:hover .entry-main{
+    background-color: var(--e-global-color-secondary);
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-col:hover .entry-title a{
+    color: var(--e-global-color-68231e7);
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-col:hover .entry-tax a{
+    color: rgba(255, 255, 255, 0.75);
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-col:hover .entry-tax a::after{
+    background-color: rgba(255, 255, 255, 0.75);
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-isotope-animated{
+    overflow: visible;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-iso-item{
+    margin-bottom: 45px!important;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-circle{
+    display: none;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-load-more{
+    height: 50px;
+    width: 200px;
+    background-color: var(--e-global-color-secondary);
+    border-radius: 50px;
+    transition: all 250ms ease-in;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-load-more:hover{
+    background-color: var(--e-global-color-primary); 
+    
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .aux-label-text , .elementor-88 .elementor-element.elementor-element-dc680c7  .aux-load-more .aux-loading-label{
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 45px;
+    text-transform: capitalize;
+    top:2px;
+    color: #fff;
+    font-weight: 500;
+}
+.elementor-88 .elementor-element.elementor-element-dc680c7 .widget-container[class*="aux-ajax-type"] .aux-ajax-view {
+    margin-bottom: 20px
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-88 .elementor-element.elementor-element-dc680c7 .entry-title a{
+        font-size:20px !important;
+    }
+}
+@media screen and (max-width:900px) and (min-width:768px){
+    .elementor-88 .elementor-element.elementor-element-dc680c7 .entry-title a{
+        font-size:18px !important;
+    }
+}
+@media only screen and (max-width:320px){
+    .elementor-88 .elementor-element.elementor-element-dc680c7 .widget-container .aux-load-more{
+        width:100%;
+        margin-bottom:0px;
+    }}/* End custom CSS */

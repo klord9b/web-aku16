@@ -1,0 +1,91 @@
+.elementor-106 .elementor-element.elementor-element-558b22e:not(.elementor-motion-effects-element-type-background), .elementor-106 .elementor-element.elementor-element-558b22e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-106 .elementor-element.elementor-element-558b22e{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:60px 35px 60px 35px;}.elementor-106 .elementor-element.elementor-element-558b22e > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-106 .elementor-element.elementor-element-2666b8a .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-106 .elementor-element.elementor-element-2666b8a .aux-modern-heading-primary{font-size:53px;font-weight:300;text-transform:uppercase;letter-spacing:3.18px;color:var( --e-global-color-text );}.elementor-106 .elementor-element.elementor-element-2666b8a{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-106 .elementor-element.elementor-element-c52a898{padding:0px 35px 0px 35px;z-index:9;}.elementor-106 .elementor-element.elementor-element-22494e6 .aux-widget-container{text-align:center;}.elementor-106 .elementor-element.elementor-element-22494e6{width:auto;max-width:auto;position:absolute;top:10px;right:-70px;}.elementor-106 .elementor-element.elementor-element-22494e6 > .elementor-widget-container{transition-timing-function:cubic-bezier(0.165,0.84,0.44,1);transition-duration:1000ms;transition-property:all;}.elementor-106 .elementor-element.elementor-element-e9cfc62 .aux-widget-container{text-align:center;}.elementor-106 .elementor-element.elementor-element-e9cfc62{width:auto;max-width:auto;position:absolute;top:20px;right:-40px;}.elementor-106 .elementor-element.elementor-element-e9cfc62 > .elementor-widget-container{transition-timing-function:cubic-bezier(0.165,0.84,0.44,1);transition-duration:1000ms;transition-property:all;}.elementor-106 .elementor-element.elementor-element-a664ff9{margin-top:200px;margin-bottom:100px;}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-header .entry-title a{color:var( --e-global-color-f71081a );font-size:37px;font-weight:400;text-transform:capitalize;}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-header .entry-title a:hover{color:var( --e-global-color-f71081a );}.elementor-106 .elementor-element.elementor-element-8f07693  .entry-header{margin-bottom:8px;}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-tax a{color:var( --e-global-color-0f9779a );}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-tax a:hover{color:var( --e-global-color-0f9779a );}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-tax{font-size:18px;font-weight:300;text-transform:capitalize;font-style:normal;}@media(max-width:1024px){.elementor-106 .elementor-element.elementor-element-2666b8a .aux-modern-heading-primary{font-size:46px;}.elementor-106 .elementor-element.elementor-element-22494e6{right:-100px;}.elementor-106 .elementor-element.elementor-element-e9cfc62{right:-70px;}.elementor-106 .elementor-element.elementor-element-a664ff9{margin-top:100px;margin-bottom:80px;}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-header .entry-title a{font-size:27px;}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-tax{font-size:16px;}}@media(max-width:767px){.elementor-106 .elementor-element.elementor-element-2666b8a .aux-modern-heading-primary{font-size:34px;}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-header .entry-title a{font-size:21px;}.elementor-106 .elementor-element.elementor-element-8f07693 .entry-tax{font-size:14px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-2666b8a */.elementor-106 .elementor-element.elementor-element-2666b8a .aux-modern-heading-primary:before{
+    content: "";
+    width: 51px;
+    height: 76px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50.294' height='75.125' viewBox='0 0 50.294 75.125'%3E%3Cg id='Group_817' data-name='Group 817' transform='translate(-809.785 -213.595)'%3E%3Crect id='Rectangle_671' data-name='Rectangle 671' width='12.443' height='68.438' transform='translate(850.012 213.595) rotate(36)' fill='%23fd4a4a'/%3E%3Crect id='Rectangle_670' data-name='Rectangle 670' width='12.443' height='29.034' transform='translate(843.442 257.917) rotate(36)' fill='%23c9c9c9'/%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    margin-right: 15px;
+    position: relative;
+    top: 20px;
+}
+@media screen and (max-width:900px){
+    .elementor-106 .elementor-element.elementor-element-2666b8a .aux-modern-heading-primary:before{
+        width: 40px;
+        height: 55px;
+    }
+}
+@media screen and (max-width:400px){
+    .elementor-106 .elementor-element.elementor-element-2666b8a .aux-modern-heading-primary {
+        font-size: 26px !important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_simple_svg, class: .elementor-element-22494e6 */.elementor-106 .elementor-element.elementor-element-22494e6 svg rect{
+    fill:var(--e-global-color-0f9779a);
+}/* End custom CSS */
+/* Start custom CSS for aux_simple_svg, class: .elementor-element-e9cfc62 */.elementor-106 .elementor-element.elementor-element-e9cfc62 svg rect{
+    fill:var(--e-global-color-primary);
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-8f07693 */.elementor-106 .elementor-element.elementor-element-8f07693 .aux-portfolio-columns .aux-overlay-content{
+    top: 86%;
+    left: 20px;
+    transform: translateY(-50%);
+    text-align: left;
+}
+.elementor-106 .elementor-element.elementor-element-8f07693 .aux-circle{
+    display: none;
+}
+.elementor-106 .elementor-element.elementor-element-8f07693 .aux-load-more{
+    height: 50px;
+    border: 2px solid var(--e-global-color-primary);
+    border-radius: 0;
+    transition: all 250ms ease-in;
+    width: 165px;
+}
+.elementor-106 .elementor-element.elementor-element-8f07693 .aux-load-more:hover{
+    background-color:var(--e-global-color-primary);
+    border: 1px solid var(--e-global-color-primary);
+}
+.elementor-106 .elementor-element.elementor-element-8f07693 .aux-label-text , .elementor-106 .elementor-element.elementor-element-8f07693 .aux-loading-label{
+    line-height: 48px;
+    text-transform: capitalize;
+    color: var(--e-global-color-accent);
+    font-weight: 500;
+}
+.elementor-106 .elementor-element.elementor-element-8f07693 .aux-load-more:hover .aux-label-text{
+    color: var(--e-global-color-e2729a0);
+}
+.elementor-106 .elementor-element.elementor-element-8f07693 .aux-media-frame a:after{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: var(--e-global-color-primary);
+    opacity: 0;
+    z-index: 1;
+    transition: opacity 1s ease-out;
+}
+.elementor-106 .elementor-element.elementor-element-8f07693 .aux-col:hover .aux-media-frame a:after{
+    opacity: 0.85;
+}
+.elementor-106 .elementor-element.elementor-element-8f07693 .aux-frame-darken::after {
+    display:none;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-106 .elementor-element.elementor-element-8f07693 .entry-title a{
+        font-size:30px !important;
+    }
+    .elementor-106 .elementor-element.elementor-element-8f07693 .aux-portfolio-columns .aux-overlay-content{
+        left:10px;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-106 .elementor-element.elementor-element-8f07693 .aux-portfolio-columns .aux-overlay-content{
+        top: 86%;
+        left: 10px;
+    }
+}/* End custom CSS */

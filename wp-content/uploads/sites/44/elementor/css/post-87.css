@@ -1,0 +1,17 @@
+.elementor-87 .elementor-element.elementor-element-ed0517e .aux-widget-testimonial .aux-testimonial-image{width:80px;}.elementor-87 .elementor-element.elementor-element-ed0517e .aux-testimonial-image img{border-radius:100% 100% 100% 100%;overflow:hidden;}.elementor-87 .elementor-element.elementor-element-ed0517e .col-title a, .elementor-87 .elementor-element.elementor-element-ed0517e .col-title{color:#111111 !important;}.elementor-87 .elementor-element.elementor-element-ed0517e .col-title, .elementor-87 .elementor-element.elementor-element-ed0517e .col-title a{font-size:25px;font-weight:300;text-transform:capitalize;}.elementor-87 .elementor-element.elementor-element-ed0517e .col-subtitle{color:var( --e-global-color-0f9779a );font-size:17px;font-weight:300;}.elementor-87 .elementor-element.elementor-element-ed0517e .aux-testimonial-content{color:var( --e-global-color-2d25a48 );font-size:26px;font-weight:300;font-style:italic;}.elementor-87 .elementor-element.elementor-element-ed0517e .aux-widget-testimonial{text-align:left;}@media(max-width:1024px){.elementor-87 .elementor-element.elementor-element-ed0517e .col-title, .elementor-87 .elementor-element.elementor-element-ed0517e .col-title a{font-size:23px;}.elementor-87 .elementor-element.elementor-element-ed0517e .col-subtitle{font-size:16px;}.elementor-87 .elementor-element.elementor-element-ed0517e .aux-testimonial-content{font-size:22px;}}@media(max-width:767px){.elementor-87 .elementor-element.elementor-element-ed0517e .col-title, .elementor-87 .elementor-element.elementor-element-ed0517e .col-title a{font-size:22px;}.elementor-87 .elementor-element.elementor-element-ed0517e .col-subtitle{font-size:15px;}.elementor-87 .elementor-element.elementor-element-ed0517e .aux-testimonial-content{font-size:20px;}}/* Start custom CSS for aux_testimonial, class: .elementor-element-ed0517e */.elementor-87 .elementor-element.elementor-element-ed0517e .entry-content:before{
+    content: "“";
+    font-size: 85px;
+    color: var(--e-global-color-f71081a);
+    display: block;
+    margin-bottom: -50px;
+    position: relative;
+    left:-12px;
+}
+.elementor-87 .elementor-element.elementor-element-ed0517e .entry-content{
+    max-width: 434px;
+}
+.elementor-87 .elementor-element.elementor-element-ed0517e .aux-testimonial-info{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}/* End custom CSS */

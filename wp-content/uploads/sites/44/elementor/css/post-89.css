@@ -1,0 +1,84 @@
+.elementor-89 .elementor-element.elementor-element-5c9d952 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 60px 0px;}.elementor-89 .elementor-element.elementor-element-4a8b408 .col-title a, .elementor-89 .elementor-element.elementor-element-4a8b408 .col-title{color:var( --e-global-color-f71081a );}.elementor-89 .elementor-element.elementor-element-4a8b408 .col-title, .elementor-89 .elementor-element.elementor-element-4a8b408 .col-title a{font-size:31px;font-weight:300;text-transform:capitalize;}.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-staff-content .col-title{margin-top:0px;}.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-staff-content  .col-title{margin-bottom:0px;}.elementor-89 .elementor-element.elementor-element-4a8b408 .col-subtitle{color:var( --e-global-color-text );margin-bottom:0px;}.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-staff-content  .col-subtitle{font-size:18px;font-weight:300;text-transform:capitalize;font-style:normal;}.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-social-list a{color:var( --e-global-color-2d25a48 );}.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-widget-staff .aux-staff-content{padding:20px 10px 0px 10px;}.elementor-89 .elementor-element.elementor-element-4a8b408{width:auto;max-width:auto;}@media(max-width:1024px){.elementor-89 .elementor-element.elementor-element-4a8b408 .col-title, .elementor-89 .elementor-element.elementor-element-4a8b408 .col-title a{font-size:26px;}.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-staff-content  .col-subtitle{font-size:17px;}}/* Start custom CSS for aux_staff, class: .elementor-element-4a8b408 */.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-social-list li{
+    width: 55px;
+    height: 49px;
+    background-color: rgba(37, 37, 42, 0.92);
+    margin-right:15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 250ms ease-in;
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-social-list li a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-media-image:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: var(--e-global-color-primary);
+    opacity: 0;
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408:hover .aux-media-image:after{
+    opacity: 0.92;
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408{
+    top: 0;
+    transition:all 250ms ease-in;
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408:hover{
+    position: relative;
+    top:50px;
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-staff-footer{
+    border:none;
+    padding: 0;
+    position: absolute;
+    bottom: 27%;
+    left: auto;
+    right: auto;
+    opacity: 0;
+    transition: all 250ms ease-in;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408:hover .aux-staff-footer{
+    opacity: 1;
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-social-list li:hover{
+    background-color: rgba(220, 220, 220, 0.92);
+}
+.elementor-89 .elementor-element.elementor-element-4a8b408 .aux-social-list li:hover a{
+    color: var(--e-global-color-f71081a);
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-89 .elementor-element.elementor-element-4a8b408 .aux-staff-footer{
+        bottom:30%;
+    }
+}
+@media screen and (max-width:900px) and (min-width:768px){
+    .elementor-89 .elementor-element.elementor-element-4a8b408 .aux-social-list li{
+        width: 45px;
+        height: 40px;
+        margin-right:7px;
+    }
+    .elementor-89 .elementor-element.elementor-element-4a8b408 .aux-staff-footer{
+        bottom:30%;
+    }
+}
+@media screen and (max-width:400px){
+    .elementor-89 .elementor-element.elementor-element-4a8b408 .aux-social-list li{
+        width: 40px;
+        height: 40px;
+    }
+    .elementor-89 .elementor-element.elementor-element-4a8b408 .aux-staff-footer{
+        bottom: 31%;
+    }
+}/* End custom CSS */

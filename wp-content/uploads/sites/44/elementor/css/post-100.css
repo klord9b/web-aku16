@@ -1,0 +1,48 @@
+.elementor-100 .elementor-element.elementor-element-8347300 .col-subtitle{color:var( --e-global-color-2d25a48 );}.elementor-100 .elementor-element.elementor-element-8347300 .aux-staff-content  .col-subtitle{font-size:33px;font-weight:300;text-transform:capitalize;font-style:normal;}.elementor-100 .elementor-element.elementor-element-8347300{width:auto;max-width:auto;}@media(max-width:1024px){.elementor-100 .elementor-element.elementor-element-8347300 .aux-staff-content  .col-subtitle{font-size:30px;}}@media(max-width:767px){.elementor-100 .elementor-element.elementor-element-8347300 .aux-staff-content  .col-subtitle{font-size:23px;}}/* Start custom CSS for aux_staff, class: .elementor-element-8347300 */.elementor-100 .elementor-element.elementor-element-8347300 .aux-staff-container{
+    display: flex;
+    flex-direction: column;
+}
+.elementor-100 .elementor-element.elementor-element-8347300 .aux-staff-content{
+    background-color: var(--e-global-color-primary);
+    transition: all 250ms ease-in;
+    padding:5px 40px 10px 40px;
+}
+.elementor-100 .elementor-element.elementor-element-8347300:hover .aux-staff-content{
+    background-color: var(--e-global-color-secondary);
+}
+.elementor-100 .elementor-element.elementor-element-8347300:hover .col-subtitle{
+    color: var(--e-global-color-text);
+}
+.elementor-100 .elementor-element.elementor-element-8347300 .col-subtitle:before{
+    content: "";
+    width: 25px;
+    height: 37px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24.251' height='36.224' viewBox='0 0 24.251 36.224'%3E%3Cg id='Group_814' data-name='Group 814' transform='translate(-1011.852 -1378.462)'%3E%3Crect id='Rectangle_47' data-name='Rectangle 47' width='6' height='33' transform='translate(1031.249 1378.462) rotate(36)' fill='%2325252A'/%3E%3Crect id='Rectangle_48' data-name='Rectangle 48' width='6' height='14' transform='translate(1028.081 1399.833) rotate(36)' fill='%23c9c9c9'/%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
+    margin-right: 15px;
+    position: relative;
+    top: 10px;
+}
+.elementor-100 .elementor-element.elementor-element-8347300:hover .col-subtitle:before{
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24.251' height='36.224' viewBox='0 0 24.251 36.224'%3E%3Cg id='Group_814' data-name='Group 814' transform='translate(-1011.852 -1378.462)'%3E%3Crect id='Rectangle_47' data-name='Rectangle 47' width='6' height='33' transform='translate(1031.249 1378.462) rotate(36)' fill='%23fd4a4a'/%3E%3Crect id='Rectangle_48' data-name='Rectangle 48' width='6' height='14' transform='translate(1028.081 1399.833) rotate(36)' fill='%23c9c9c9'/%3E%3C/g%3E%3C/svg%3E");
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-100 .elementor-element.elementor-element-8347300 .col-subtitle {
+        font-size: 28px !important;
+    }
+}
+@media screen and (max-width:900px) and (min-width:768px){
+    .elementor-100 .elementor-element.elementor-element-8347300 .aux-staff-content {
+        padding: 5px 20px 10px 20px;
+    }
+    .elementor-100 .elementor-element.elementor-element-8347300 .col-subtitle {
+        font-size: 26px !important;
+    }
+}
+@media screen and (max-width:767px){
+    .elementor-100 .elementor-element.elementor-element-8347300 .aux-staff-content {
+        padding: 5px 20px 10px 15px;
+    }
+}/* End custom CSS */

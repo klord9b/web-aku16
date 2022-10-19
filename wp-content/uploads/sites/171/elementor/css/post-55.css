@@ -1,0 +1,30 @@
+.elementor-55 .elementor-element.elementor-element-122939e3{padding:0px 35px 0px 35px;}.elementor-55 .elementor-element.elementor-element-2e2fd210 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-55 .elementor-element.elementor-element-4fe8266b .entry-title a{color:#0F0F0F;}.elementor-55 .elementor-element.elementor-element-4fe8266b .entry-title{font-family:"Merriweather", Sans-serif;font-size:30px;font-weight:700;line-height:42px;margin-bottom:19px;}.elementor-55 .elementor-element.elementor-element-4fe8266b .entry-info a, .elementor-55 .elementor-element.elementor-element-4fe8266b .entry-info{color:#AAAAAA;}.elementor-55 .elementor-element.elementor-element-4fe8266b .entry-info, .elementor-55 .elementor-element.elementor-element-4fe8266b .entry-info a{font-family:"Rubik", Sans-serif;font-size:12px;font-weight:400;text-transform:uppercase;line-height:19px;}.elementor-55 .elementor-element.elementor-element-4fe8266b .entry-info{margin-bottom:25px;}.elementor-55 .elementor-element.elementor-element-4fe8266b .entry-content{color:#303030;font-family:"Rubik", Sans-serif;font-size:16px;font-weight:400;line-height:28px;margin-bottom:65px;}.elementor-55 .elementor-element.elementor-element-4fe8266b .entry-meta, .elementor-55 .elementor-element.elementor-element-4fe8266b .entry-meta a, .elementor-55 .elementor-element.elementor-element-4fe8266b .entry-meta span{font-family:"Rubik", Sans-serif;font-size:15px;font-weight:400;text-transform:uppercase;letter-spacing:3.8px;}.elementor-55 .elementor-element.elementor-element-4fe8266b{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}@media(max-width:1024px){.elementor-55 .elementor-element.elementor-element-4fe8266b .entry-title{font-size:20px;line-height:35px;}}/* Start custom CSS for aux_recent_posts_land_style, class: .elementor-element-4fe8266b */.elementor-55 .elementor-element.elementor-element-4fe8266b .land-post-style{
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+
+.elementor-55 .elementor-element.elementor-element-4fe8266b .land-post-style .entry-meta{
+    position: inherit;
+}
+
+.elementor-55 .elementor-element.elementor-element-4fe8266b .aux-read-more{
+    border: 0;
+    color: #FF1616;
+	padding: 15px 45px 15px 45px;
+	font-family: "Merriweather", Sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	text-transform: uppercase;
+	line-height: 28px;
+	background: #FFFFFF;
+	box-shadow: 10px 10px 35px rgba(0, 0, 0, 0.15);
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);     
+}
+
+.elementor-55 .elementor-element.elementor-element-4fe8266b .aux-read-more:hover{
+	background: #3D3D3D;
+	color: #FFFFFF;
+	text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.3);     
+}/* End custom CSS */

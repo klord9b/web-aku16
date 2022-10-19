@@ -1,0 +1,13 @@
+.elementor-90 .elementor-element.elementor-element-e1bb1ec{margin-top:75px;margin-bottom:-45px;padding:0px 35px 0px 35px;}.elementor-90 .elementor-element.elementor-element-a29f249 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-90 .elementor-element.elementor-element-a29f249 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-90 .elementor-element.elementor-element-26026af .aux-modern-heading-primary{font-family:"Barlow Condensed", Sans-serif;font-size:70px;font-weight:600;text-transform:uppercase;color:var( --e-global-color-text );margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-90 .elementor-element.elementor-element-26026af{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-90 .elementor-element.elementor-element-2710f74{margin-top:0px;margin-bottom:0px;}.elementor-90 .elementor-element.elementor-element-3354667 .aux-iso-item{margin-bottom:30px !important;}@media(max-width:1024px){.elementor-90 .elementor-element.elementor-element-e1bb1ec{margin-top:150px;margin-bottom:0px;padding:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-90 .elementor-element.elementor-element-e1bb1ec{margin-top:100px;margin-bottom:0px;}}/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-3354667 */.elementor-90 .elementor-element.elementor-element-3354667 .entry-media img{
+    -webkit-filter: grayscale(100%); 
+    filter: grayscale(100%);
+    transition: all 1s ease-out;
+}
+.elementor-90 .elementor-element.elementor-element-3354667 .entry-media {
+    margin-bottom: -30px;
+}
+.elementor-90 .elementor-element.elementor-element-3354667 .entry-media:hover img{
+      -webkit-filter: grayscale(0); 
+    filter: grayscale(0);
+    transition: all 1s ease-out;
+}/* End custom CSS */

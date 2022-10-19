@@ -1,0 +1,116 @@
+.elementor-67 .elementor-element.elementor-element-69ba877d > .elementor-container{max-width:1152px;}.elementor-67 .elementor-element.elementor-element-69ba877d{margin-top:0px;margin-bottom:0px;padding:230px 0px 130px 0px;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-title a{color:var( --e-global-color-primary );font-family:"Montserrat", Sans-serif;font-size:30px;font-weight:bold;line-height:40px;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-title{margin-bottom:22px;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-info a, .elementor-67 .elementor-element.elementor-element-6604445b .entry-info{color:#ffffff;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-info, .elementor-67 .elementor-element.elementor-element-6604445b .entry-info a{font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:400;line-height:19px;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-info{margin-bottom:16px;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-content{color:#ffffff;font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:400;line-height:24px;margin-bottom:0px;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-meta a, .elementor-67 .elementor-element.elementor-element-6604445b .entry-meta, .elementor-67 .elementor-element.elementor-element-6604445b .entry-meta span{color:#ffffff;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-meta, .elementor-67 .elementor-element.elementor-element-6604445b .entry-meta a, .elementor-67 .elementor-element.elementor-element-6604445b .entry-meta span{font-family:"Montserrat", Sans-serif;font-size:15px;font-weight:bold;line-height:19px;}.elementor-67 .elementor-element.elementor-element-6604445b .entry-meta{padding:0px 0px 31px 0px;margin-bottom:31px;}.elementor-67 .elementor-element.elementor-element-6604445b .column-entry{padding:0px 0px 0px 0px;}.elementor-67 .elementor-element.elementor-element-6604445b .type-post .entry-main{padding:0px 10px 0px 25px;}.elementor-67 .elementor-element.elementor-element-6604445b{text-align:left;z-index:9;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-67 .elementor-element.elementor-element-6604445b > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-67 .elementor-element.elementor-element-1c647541 .elementor-heading-title{color:rgba(244,244,244,0.08);font-family:"Oswald", Sans-serif;font-size:582px;font-weight:600;letter-spacing:-19px;}.elementor-67 .elementor-element.elementor-element-1c647541{position:absolute;bottom:415px;left:0px;}.elementor-67 .elementor-element.elementor-element-41a2d19e .elementor-heading-title{color:rgba(244,244,244,0.08);font-family:"Oswald", Sans-serif;font-size:582px;font-weight:600;letter-spacing:-14px;}.elementor-67 .elementor-element.elementor-element-41a2d19e{position:absolute;top:192px;right:53px;}@media(max-width:1024px){.elementor-67 .elementor-element.elementor-element-2f892646 > .elementor-element-populated > .elementor-widget-wrap{padding:30px 75px 30px 75px;}.elementor-67 .elementor-element.elementor-element-6604445b .type-post .entry-main{padding:0px 30px 0px 30px;}}@media(max-width:767px){.elementor-67 .elementor-element.elementor-element-2f892646 > .elementor-element-populated > .elementor-widget-wrap{padding:15px 15px 15px 15px;}.elementor-67 .elementor-element.elementor-element-6604445b > .elementor-widget-container{padding:0px 0px 0px 0px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-6604445b */.elementor-67 .elementor-element.elementor-element-6604445b .entry-meta .author img,
+.elementor-67 .elementor-element.elementor-element-6604445b .entry-meta .author .meta-sep,
+.elementor-67 .elementor-element.elementor-element-6604445b .entry-info .meta-sep,
+.elementor-67 .elementor-element.elementor-element-6604445b .entry-info .author{
+    display: none;
+}
+
+.elementor-67 .elementor-element.elementor-element-6604445b .entry-meta {
+    position: relative;
+}
+.elementor-67 .elementor-element.elementor-element-6604445b .entry-meta:before{
+    content: '';
+    position: absolute;
+    width: 132px;
+    height: 2px;
+    background: var(--auxin-featured-color-1);
+    bottom: 0;
+    left: 0;
+}
+
+.elementor-67 .elementor-element.elementor-element-6604445b article.type-post {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.elementor-67 .elementor-element.elementor-element-6604445b article.type-post > .entry-media {
+    padding-right: 25px;
+    position: relative;
+}
+
+.elementor-67 .elementor-element.elementor-element-6604445b article.type-post > .entry-media:before {
+    content: '';
+    width: 2px;
+    height: 100%;
+    background: var(--auxin-featured-color-1);
+    position: absolute;
+    left: -30px;
+    top: 0;
+}
+.elementor-67 .elementor-element.elementor-element-6604445b article.type-post > .entry-media,
+.elementor-67 .elementor-element.elementor-element-6604445b article.type-post > .entry-main {
+    flex: 0 0 50%;
+}
+
+.elementor-67 .elementor-element.elementor-element-6604445b .aux-col:not(:first-child) {
+    margin-top: 95px;
+}
+
+@media only screen and (max-width:1024px) {
+    .elementor-67 .elementor-element.elementor-element-6604445b article.type-post {
+        display: block;
+    }
+    
+    .elementor-67 .elementor-element.elementor-element-6604445b article.type-post > .entry-media:before {
+        display: none;
+    }
+    .elementor-67 .elementor-element.elementor-element-6604445b article.type-post > .entry-media {
+        padding-right: 0;
+    }
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-1c647541 */.elementor-67 .elementor-element.elementor-element-1c647541 .elementor-heading-title {
+    writing-mode: tb-rl;
+        transform: rotate(-180deg);
+        margin: 0 auto;
+}
+
+.elementor-67 .elementor-element.elementor-element-1c647541 {
+    transform: translateX(-100%);
+    width: auto;
+}
+
+@media only screen and (max-width: 1500px) and (min-width: 1025px) {
+    .elementor-67 .elementor-element.elementor-element-1c647541 {
+        display: none;
+    }
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-41a2d19e */.elementor-67 .elementor-element.elementor-element-41a2d19e .elementor-heading-title {
+    writing-mode: tb-rl;
+        transform: rotate(-180deg);
+        margin: 0 auto;
+}
+
+.elementor-67 .elementor-element.elementor-element-41a2d19e {
+    transform: translateX(100%);
+    width: auto;
+}
+
+@media only screen and (max-width: 1500px) and (min-width: 1025px) {
+    .elementor-67 .elementor-element.elementor-element-41a2d19e {
+        display: none;
+    }
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-69ba877d */.elementor-67 .elementor-element.elementor-element-69ba877d:before{
+    content: '';
+	width: 1152px;
+	position: absolute;
+	right: 0;
+	left: 0;
+	margin: 0 auto;
+	height: 100%;
+	background: transparent;
+	border-right: 1px solid #262626;
+	border-left: 1px solid #262626;
+	clip-path: polygon(0% 0%, 0% 100%, 1px 100%, 1px 0, calc(100% - 1px) 0, calc(100% - 1px) 100%, 1px 100%, 1px 100%, 100% 100%, 100% 0%);
+	-webkit-clip-path: polygon(0% 0%, 0% 100%, 1px 100%, 1px 0, calc(100% - 1px) 0, calc(100% - 1px) 100%, 1px 100%, 1px 100%, 100% 100%, 100% 0%);
+	top: 0;
+}
+
+
+
+@media only screen and (max-width: 1620px ) {
+    .elementor-67 .elementor-element.elementor-element-69ba877d:after,
+    .elementor-67 .elementor-element.elementor-element-69ba877d:before {
+        display:none;
+    }
+}/* End custom CSS */

@@ -1,0 +1,30 @@
+.elementor-94 .elementor-element.elementor-element-963dbb3{padding:50px 50px 50px 50px;}.elementor-94 .elementor-element.elementor-element-8af9e64:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-94 .elementor-element.elementor-element-8af9e64 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("/wp-content/uploads/sites/34/2021/09/right.png");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-94 .elementor-element.elementor-element-8af9e64 > .elementor-element-populated, .elementor-94 .elementor-element.elementor-element-8af9e64 > .elementor-element-populated > .elementor-background-overlay, .elementor-94 .elementor-element.elementor-element-8af9e64 > .elementor-background-slideshow{border-radius:24px 24px 24px 24px;}.elementor-94 .elementor-element.elementor-element-8af9e64 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-94 .elementor-element.elementor-element-8af9e64 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-widget-testimonial .aux-testimonial-image{width:75px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-testimonial-image img{border-radius:100% 100% 100% 100%;overflow:hidden;}.elementor-94 .elementor-element.elementor-element-73f9d8d .col-title a, .elementor-94 .elementor-element.elementor-element-73f9d8d .col-title{color:var( --e-global-color-text );}.elementor-94 .elementor-element.elementor-element-73f9d8d .col-title, .elementor-94 .elementor-element.elementor-element-73f9d8d .col-title a{font-size:21px;font-weight:bold;text-transform:uppercase;}.elementor-94 .elementor-element.elementor-element-73f9d8d .col-title{margin-top:10px;margin-bottom:0px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .col-subtitle{color:var( --e-global-color-text );font-family:"Quicksand", Roboto;font-size:16px;font-weight:500;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-testimonial-content{color:var( --e-global-color-text );font-family:"Quicksand", Roboto;font-size:22px;font-weight:500;line-height:2em;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-testimonial-content .entry-content{margin-top:0px;margin-bottom:50px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-widget-testimonial{text-align:center;border-radius:24px 24px 24px 24px;padding:112px 170px 45px 170px;box-shadow:0px 10px 35px 0px rgba(0, 0, 0, 0.14901960784313725);}@media(max-width:1024px){.elementor-94 .elementor-element.elementor-element-73f9d8d .col-title, .elementor-94 .elementor-element.elementor-element-73f9d8d .col-title a{font-size:19px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .col-subtitle{font-size:15px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-testimonial-content{font-size:18px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-testimonial-content .entry-content{margin-top:0px;margin-bottom:40px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-widget-testimonial{padding:60px 80px 20px 80px;}}@media(max-width:767px){.elementor-94 .elementor-element.elementor-element-963dbb3{padding:0px 0px 0px 0px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .col-title, .elementor-94 .elementor-element.elementor-element-73f9d8d .col-title a{font-size:16px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .col-subtitle{font-size:14px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-testimonial-content{font-size:17px;}.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-widget-testimonial{padding:40px 35px 20px 35px;}}/* Start custom CSS for aux_testimonial, class: .elementor-element-73f9d8d */.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-testimonial-infobox{
+    margin: 0 auto;
+    position: relative;
+    z-index: 99;
+}
+.elementor-94 .elementor-element.elementor-element-73f9d8d .aux-testimonial-info{
+    text-align: left;
+}
+.elementor-94 .elementor-element.elementor-element-73f9d8d:before{
+    content:"";
+    width:100%;
+    height: 100%;
+    background-color: #FFFFFF95;
+    position: absolute;
+    left:0;
+    top:0;
+    filter:blur(10px);
+    filter: brightness(32);
+    border-radius: 24px;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-94 .elementor-element.elementor-element-73f9d8d .aux-widget-testimonial{
+        padding: 90px 100px 20px 100px !important;
+    }
+}
+@media screen and (max-width:414px){
+    .elementor-94 .elementor-element.elementor-element-73f9d8d .aux-widget-testimonial{
+        box-shadow:none;
+    }
+}/* End custom CSS */

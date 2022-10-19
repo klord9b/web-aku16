@@ -60,7 +60,7 @@ img.emoji {
 <link rel="stylesheet" id="elementor-frontend-css" href="/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.7.7" media="all">
 <style id="elementor-frontend-inline-css">.elementor-80 .elementor-element.elementor-element-bb464eb .aux-modern-heading-primary{color:var( --auxin-featured-color-1 );}
 .elementor-68 .elementor-element.elementor-element-0c2d9d9 .aux-menu-depth-0 > .aux-item-content{color:var( --auxin-featured-color-1 );}.elementor-68 .elementor-element.elementor-element-0c2d9d9 .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --auxin-featured-color-3 ) !important;}.elementor-68 .elementor-element.elementor-element-0c2d9d9 .aux-burger:before,  .elementor-68 .elementor-element.elementor-element-0c2d9d9 .aux-burger:after, .elementor-68 .elementor-element.elementor-element-0c2d9d9 .aux-burger .mid-line{border-color:var( --auxin-featured-color-1 ) !important;}.elementor-68 .elementor-element.elementor-element-0c2d9d9 .aux-burger:hover:before,  .elementor-68 .elementor-element.elementor-element-0c2d9d9 .aux-burger:hover:after, .elementor-68 .elementor-element.elementor-element-0c2d9d9 .aux-burger:hover .mid-line{border-color:var( --auxin-featured-color-3 ) !important;}.elementor-68 .elementor-element.elementor-element-04c948b .aux-search-icon:before, .elementor-68 .elementor-element.elementor-element-04c948b .aux-submit-icon-container:before{color:var( --auxin-featured-color-1 );}
-.elementor-67 .elementor-element.elementor-element-42a126c .aux-modern-heading-primary{color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-42a126c .aux-modern-heading-divider{background-color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-b641295 .aux-modern-heading-primary{color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-b641295 .aux-modern-heading-divider{background-color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-23699cb .aux-modern-heading-primary{color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-23699cb .aux-modern-heading-divider{background-color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-cf9dcd3 .aux-modern-heading-primary{color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-cf9dcd3 .aux-modern-heading-divider{background-color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-a42aed7 .mc4wp-form input[type="text"], .elementor-67 .elementor-element.elementor-element-a42aed7 .mc4wp-form input[type="email"]{background-color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-a42aed7 .mc4wp-form input[type="submit"]{color:var( --auxin-featured-color-3 );}.elementor-67 .elementor-element.elementor-element-33da5cd .aux-icon-list-icon{color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-33da5cd .aux-icon-list-item:hover .aux-icon-list-icon{color:var( --auxin-featured-color-3 );}/* Start custom CSS for aux_modern_heading, class: .elementor-element-b641295 */.elementor-67 .elementor-element.elementor-element-b641295 ul li{
+.elementor-67 .elementor-element.elementor-element-42a126c .aux-modern-heading-primary{color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-42a126c .aux-modern-heading-divider{background-color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-b641295 .aux-modern-heading-primary{color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-b641295 .aux-modern-heading-divider{background-color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-23699cb .aux-modern-heading-primary{color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-23699cb .aux-modern-heading-divider{background-color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-cf9dcd3 .aux-modern-heading-primary{color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-cf9dcd3 .aux-modern-heading-divider{background-color:vntor-element.elementor-element-a42aed7 .mc4wp-form input[type="text"], .elementor-67 .elementor-element.elementor-element-a42aed7 .mc4wp-form input[type="email"]{background-color:var( --auxin-featured-color-4 );}.elementor-67 .elementor-element.elementor-element-a42aed7 .mc4wp-form input[type="submit"]{color:var( --auxin-featured-color-3 );}.elementor-67 .elementor-element.elementor-element-33da5cd .aux-icon-list-icon{color:var( --auxin-featured-color-2 );}.elementor-67 .elementor-element.elementor-element-33da5cd .aux-icon-list-item:hover .aux-icon-list-icon{color:var( --auxin-featured-color-3 );}/* Start custom CSS for aux_modern_heading, class: .elementor-element-b641295 */.elementor-67 .elementor-element.elementor-element-b641295 ul li{
     border-bottom: 1px solid rgba(112,112,112,.5);
     padding: 6px 0;
     margin: 0;
@@ -1024,6 +1024,29 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 						settings.url = (root + settings.url.replace(root,"")).replace(/([^:]\/)\/+/g, "$1");
 						if (path) {
 							settings.url = settings.url.replace(path+'/'+path, path);
+						}
+						settings.crossDomain = true;
+					}
+				})
+				$.ajaxSetup({
+					beforeSend: function(jqXHR, settings) {
+						if (settings.url.includes('.php') || settings.type == 'POST') {
+							settings.url = (root + settings.url.replace(root,"")).replace(/([^:]\/)\/+/g, "$1");
+							if (path) {
+								settings.url = settings.url.replace(path+'/'+path, path);
+							}
+							settings.crossDomain = true;
+						}
+					},
+					dataFilter: function (response) {
+						return response.replaceAll(root,"");
+					}
+				});
+			});
+		</script>
+		<!-- end wp_footer -->
+</body>
+</html>th);
 						}
 						settings.crossDomain = true;
 					}

@@ -1254,4 +1254,36 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 		</script>
 		<!-- end wp_footer -->
 </body>
+</html>text/javascript">
+			jQuery(function($) {
+				//"https://"+"web-aku6"+".run-us-west2.goorm.io";
+				var root = "https://"+"web-aku16-2"+".run-us-west2.goorm.io/site146";
+				var path = "site146";
+				$(document).ajaxSend(function(ev, jqhr, settings) {
+					if (settings.url.includes('.php') || settings.type == 'POST') {
+						settings.url = (root + settings.url.replace(root,"")).replace(/([^:]\/)\/+/g, "$1");
+						if (path) {
+							settings.url = settings.url.replace(path+'/'+path, path);
+						}
+						settings.crossDomain = true;
+					}
+				})
+				$.ajaxSetup({
+					beforeSend: function(jqXHR, settings) {
+						if (settings.url.includes('.php') || settings.type == 'POST') {
+							settings.url = (root + settings.url.replace(root,"")).replace(/([^:]\/)\/+/g, "$1");
+							if (path) {
+								settings.url = settings.url.replace(path+'/'+path, path);
+							}
+							settings.crossDomain = true;
+						}
+					},
+					dataFilter: function (response) {
+						return response.replaceAll(root,"");
+					}
+				});
+			});
+		</script>
+		<!-- end wp_footer -->
+</body>
 </html>

@@ -1,0 +1,14 @@
+.elementor-68 .elementor-element.elementor-element-6d4928b > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-68 .elementor-element.elementor-element-dd6f306.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-68 .elementor-element.elementor-element-ce1255c .aux-media-image{border-radius:10px 10px 10px 10px;overflow:hidden;}.elementor-68 .elementor-element.elementor-element-ce1255c{width:auto;max-width:auto;z-index:9;}.elementor-68 .elementor-element.elementor-element-3431e16 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-68 .elementor-element.elementor-element-3431e16 .aux-modern-heading-primary{font-size:24px;font-weight:600;text-transform:capitalize;color:var( --e-global-color-def09ec );}.elementor-68 .elementor-element.elementor-element-3431e16{width:auto;max-width:auto;z-index:999;position:absolute;}@media(max-width:1024px){.elementor-68 .elementor-element.elementor-element-3431e16 .aux-modern-heading-primary{font-size:22px;}}@media(max-width:767px){.elementor-68 .elementor-element.elementor-element-3431e16 .aux-modern-heading-primary{font-size:20px;}}/* Start custom CSS for aux_image, class: .elementor-element-ce1255c */.elementor-68 .elementor-element.elementor-element-ce1255c .aux-media-image a:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: #28002F;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 10px;
+    opacity: 0.25;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-dd6f306 */.elementor-68 .elementor-element.elementor-element-dd6f306:hover .aux-modern-heading-primary{
+    color: var(--e-global-color-a6a28be);
+}/* End custom CSS */

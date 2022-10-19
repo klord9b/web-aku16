@@ -1,0 +1,73 @@
+.elementor-88 .elementor-element.elementor-element-b88b5cc > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-88 .elementor-element.elementor-element-b88b5cc{box-shadow:0px 13px 26px 0px rgba(39.999999999999936, 0, 47, 0.07058823529411765);padding:23px 35px 13px 35px;}.elementor-88 .elementor-element.elementor-element-1b4ed3c.elementor-column > .elementor-widget-wrap{justify-content:space-between;}.elementor-88 .elementor-element.elementor-element-9f021de{width:auto;max-width:auto;animation-duration:2000ms;animation-delay:250ms;animation-timing-function:cubic-bezier(0.77,0,0.175,1);}.elementor-88 .elementor-element.elementor-element-bdf074e{text-align:left;width:auto;max-width:auto;align-self:center;animation-duration:1500ms;animation-delay:550ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-vertical .aux-menu-depth-0 .aux-item-content{text-align:left;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-menu-depth-0 > .aux-item-content{color:#818284;font-family:"Poppins", Roboto;font-size:14px;font-weight:500;text-transform:capitalize;padding:0px 25px 0px 0px;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-menu-depth-0.aux-hover > .aux-item-content {color:var( --e-global-color-a6a28be );}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-menu-depth-0.aux-hover > .aux-item-content{font-weight:700;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-menu-depth-0.current-menu-item > a{color:var( --e-global-color-a6a28be );font-weight:bold;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-menu .aux-menu-item > .aux-item-content{color:#818284;font-weight:500;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-menu .aux-menu-item {background-color:var( --e-global-color-primary );}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-menu .aux-menu-item.aux-hover > .aux-item-content{color:var( --e-global-color-def09ec );}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-menu .aux-master-menu{text-align:left;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-popup{background-color:var( --e-global-color-primary );}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-popup .aux-panel-close{border-color:#818284;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-popup .aux-panel-close .aux-close:before{background-color:#818284;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-popup .aux-panel-close .aux-close:after{background-color:#818284;}.elementor-88 .elementor-element.elementor-element-154faf2 .aux-search-icon:before, .elementor-88 .elementor-element.elementor-element-154faf2 .aux-submit-icon-container:before{color:#0B1C3F;}.elementor-88 .elementor-element.elementor-element-154faf2 .aux-search-form .aux-search-field{font-size:13px;font-weight:normal;text-transform:capitalize;padding:20px 20px 10px 05px;border-style:solid;border-width:0px 0px 2px 0px;border-color:#26002F;}.elementor-88 .elementor-element.elementor-element-154faf2 .aux-search-form .aux-search-submit{background-color:#303030;}.elementor-88 .elementor-element.elementor-element-154faf2 > .elementor-widget-container{margin:-10px 0px 0px 0px;}.elementor-88 .elementor-element.elementor-element-154faf2{width:auto;max-width:auto;animation-duration:1500ms;animation-delay:850ms;animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);min-width:270px;}@media(max-width:1024px){.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:38px;padding:0px 0px 30px 0px;}.elementor-88 .elementor-element.elementor-element-bdf074e > .elementor-widget-container{margin:0px 0px 0px 20px;}.elementor-88 .elementor-element.elementor-element-154faf2 > .elementor-widget-container{margin:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-88 .elementor-element.elementor-element-b88b5cc{padding:15px 35px 15px 35px;}.elementor-88 .elementor-element.elementor-element-bdf074e .aux-fs-menu .aux-menu-item > .aux-item-content{font-size:30px;}}/* Start custom CSS for aux_logo, class: .elementor-element-9f021de */@media screen and (max-width:1024px){
+    .elementor-88 .elementor-element.elementor-element-9f021de{
+        flex-grow:1;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_menu_box, class: .elementor-element-bdf074e */.elementor-88 .elementor-element.elementor-element-bdf074e .aux-menu-depth-0.current-menu-item a:after{
+    content: "";
+    width: 20px;
+    height: 2px;
+    background-color: var(--e-global-color-primary);
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+}
+@media screen and (max-width:1024px){
+    .elementor-88 .elementor-element.elementor-element-bdf074e{
+        order:1;
+    }
+    .elementor-88 .elementor-element.elementor-element-bdf074e .aux-menu-depth-0.current-menu-item a{
+        display:inline-block;
+        color:var(--e-global-color-def09ec) !important;
+    }
+    .elementor-88 .elementor-element.elementor-element-bdf074e .aux-menu-depth-0.current-menu-item a:after{
+        bottom:20px;
+        color:var(--e-global-color-def09ec);
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_search_box, class: .elementor-element-154faf2 */.elementor-88 .elementor-element.elementor-element-154faf2 .aux-search-input-form:after{
+    content: "";
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background-image: url("data:image/svg+xml,%3Csvg width='25' height='24' viewBox='0 0 25 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4.12522 7.66957C5.57371 4.24494 8.96757 2.01028 12.7353 2.00037C16.7959 1.97932 20.4066 4.5403 21.6724 8.33934C22.9382 12.1384 21.5699 16.3076 18.2857 18.6591C15.0015 21.0105 10.5516 21.007 7.2712 18.6504L4.3462 21.5304C4.04881 21.8228 3.56704 21.8228 3.26964 21.5304C2.97262 21.2376 2.97262 20.7632 3.26964 20.4704L6.10324 17.6804C3.45642 15.0402 2.67674 11.0942 4.12522 7.66957ZM5.48327 14.1693C6.69945 17.055 9.56219 18.9344 12.7353 18.9304V18.8904C17.0418 18.885 20.5378 15.4606 20.5657 11.2204C20.5698 8.09611 18.661 5.27742 15.7303 4.07994C12.7995 2.88247 9.42467 3.54232 7.18096 5.75152C4.93725 7.96071 4.26708 11.2836 5.48327 14.1693Z' fill='%230B1C3F'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 5px;
+    right: 0px;
+    transform:scalex(-1);
+    transition:all 250ms ease-in;
+}
+.elementor-88 .elementor-element.elementor-element-154faf2:hover .aux-search-input-form:after{
+    opacity: 0;
+}
+.elementor-88 .elementor-element.elementor-element-154faf2 .aux-search-field{
+    height: 35px;
+    min-height: 35px;
+    border: 2px solid #26002F;
+}
+.elementor-88 .elementor-element.elementor-element-154faf2 .aux-search-field::placeholder{
+    color:rgba(129, 130, 132, 0.6);
+}
+.elementor-88 .elementor-element.elementor-element-154faf2 .aux-search-input-form:before{
+    content: "";
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background-image: url("data:image/svg+xml,%3Csvg width='25' height='24' viewBox='0 0 25 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M4.12522 7.66957C5.57371 4.24494 8.96757 2.01028 12.7353 2.00037C16.7959 1.97932 20.4066 4.5403 21.6724 8.33934C22.9382 12.1384 21.5699 16.3076 18.2857 18.6591C15.0015 21.0105 10.5516 21.007 7.2712 18.6504L4.3462 21.5304C4.04881 21.8228 3.56704 21.8228 3.26964 21.5304C2.97262 21.2376 2.97262 20.7632 3.26964 20.4704L6.10324 17.6804C3.45642 15.0402 2.67674 11.0942 4.12522 7.66957ZM5.48327 14.1693C6.69945 17.055 9.56219 18.9344 12.7353 18.9304V18.8904C17.0418 18.885 20.5378 15.4606 20.5657 11.2204C20.5698 8.09611 18.661 5.27742 15.7303 4.07994C12.7995 2.88247 9.42467 3.54232 7.18096 5.75152C4.93725 7.96071 4.26708 11.2836 5.48327 14.1693Z' fill='red'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 5px;
+    right: 0px;
+    opacity: 0;
+    transform:scalex(-1);
+    transition:all 250ms ease-in;
+}
+.elementor-88 .elementor-element.elementor-element-154faf2:hover .aux-search-input-form:before{
+    opacity: 1;
+}/* End custom CSS */

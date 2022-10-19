@@ -1,0 +1,35 @@
+.elementor-89 .elementor-element.elementor-element-9a1d5bc{margin-top:100px;margin-bottom:0px;padding:15px 15px 75px 15px;}.elementor-89 .elementor-element.elementor-element-37ced0f .col-title a, .elementor-89 .elementor-element.elementor-element-37ced0f .col-title{color:var( --e-global-color-fc5ca15 );}.elementor-89 .elementor-element.elementor-element-37ced0f .col-title, .elementor-89 .elementor-element.elementor-element-37ced0f .col-title a{font-size:26px;font-weight:500;}.elementor-89 .elementor-element.elementor-element-37ced0f .entry-content{color:var( --e-global-color-fc5ca15 );font-size:15px;font-weight:400;}.elementor-89 .elementor-element.elementor-element-37ced0f .aux-social-list a{color:var( --e-global-color-fc5ca15 );}.elementor-89 .elementor-element.elementor-element-37ced0f .aux-social-list a:hover{color:var( --e-global-color-text );}.elementor-89 .elementor-element.elementor-element-37ced0f .aux-widget-staff .aux-staff-content{padding:10px 45px 20px 31px;}.elementor-89 .elementor-element.elementor-element-37ced0f{width:auto;max-width:auto;}@media(max-width:1024px){.elementor-89 .elementor-element.elementor-element-37ced0f .col-title, .elementor-89 .elementor-element.elementor-element-37ced0f .col-title a{font-size:22px;}.elementor-89 .elementor-element.elementor-element-37ced0f .entry-content{font-size:14px;}.elementor-89 .elementor-element.elementor-element-37ced0f .aux-widget-staff .aux-staff-content{padding:10px 30px 20px 31px;}}/* Start custom CSS for aux_staff, class: .elementor-element-37ced0f */.elementor-89 .elementor-element.elementor-element-37ced0f .aux-media-image img{
+    border-radius: 15px;
+    box-shadow: 0px 35px 43px rgba(0, 0, 0, 0.15);
+}
+.elementor-89 .elementor-element.elementor-element-37ced0f .aux-staff-content{
+    width: 88%;
+    height: 88%;
+    background: transparent linear-gradient(180deg, var(--e-global-color-secondary) 0%, #E52C4800 100%);
+    box-shadow: 0px 12px 50px rgba(0, 0, 0, 0.09);
+    border-radius: 15px;
+    position: absolute;
+    top: 6%;
+    left: 6%;
+    opacity: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-89 .elementor-element.elementor-element-37ced0f:hover .aux-staff-content{
+    opacity: 1;
+}
+.elementor-89 .elementor-element.elementor-element-37ced0f .aux-widget-staff .aux-staff-footer{
+    border: none;
+}
+.elementor-89 .elementor-element.elementor-element-37ced0f .aux-widget-staff .aux-staff-footer li{
+    padding-right: 50px;
+}
+@media screen and (max-width:1440px) and (min-width:1025px){
+    .elementor-89 .elementor-element.elementor-element-37ced0f .aux-staff-content{
+        padding: 10px 30px 20px 31px !important;
+    }
+}
+@media screen and (max-width:1600px){
+        .elementor-89 .elementor-element.elementor-element-37ced0f .aux-widget-staff .aux-staff-footer li{
+        padding-right: 25px;
+    }
+}/* End custom CSS */

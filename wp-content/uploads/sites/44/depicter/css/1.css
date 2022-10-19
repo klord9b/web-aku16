@@ -1,0 +1,622 @@
+
+.depicter-1:not(.depicter-ready){
+	height:800px;
+}
+.depicter-revert.depicter-1 .depicter-layers-wrapper{
+	padding-left:15px;
+	padding-right:15px;
+}
+.depicter-revert .depicter-1-element-19{
+	border-width:2px;
+	border-style:solid;
+	border-color:#626262;
+}
+.depicter-revert .depicter-1-element-19:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-19:not(.depicter-hover-off):hover {
+	background-color:#FD4A4A;
+}
+.depicter-1-element-19 .depicter-arrow-icon{
+	fill:#9a9a9a;
+	transition:all ease 0.3s;
+}
+.depicter-1-element-19:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-1-element-20{
+	border-width:2px;
+	border-style:solid;
+	border-color:#626262;
+}
+.depicter-revert .depicter-1-element-20:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-1-element-20:not(.depicter-hover-off):hover {
+	background-color:#FD4A4A;
+}
+.depicter-1-element-20 .depicter-arrow-icon{
+	fill:#9a9a9a;
+	transition:all ease 0.3s;
+}
+.depicter-1-element-20:not(.depicter-hover-off):hover .depicter-arrow-icon{
+	fill:#ffffff;
+}
+.depicter-revert .depicter-1-element-16{
+	font-size:25px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-15{
+	font-size:20px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-13{
+	font-size:25px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-12{
+	font-size:20px;
+	color:#000000;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-11{
+	background-color:#141414;
+}
+.depicter-revert .depicter-1-element-10{
+	background-color:#FD4A4A;
+}
+.depicter-revert .depicter-1-element-7{
+	font-size:16px;
+	text-align:center;
+	color:#343742;
+	font-family:"Sarabun";
+	font-weight:400;
+	text-transform:uppercase;
+	background-color:#FD4A4A;
+}
+.depicter-revert .depicter-1-element-7:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#222222;
+}
+.depicter-revert .depicter-1-element-6{
+	opacity:0.8;
+	font-size:17px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-4{
+	font-size:117px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:117px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-2{
+	font-size:25px;
+	color:#fd4a4a;
+	font-family:"Sarabun";
+	font-weight:500;
+	line-height:120%;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-1{
+	background-color:#25252A;
+}
+.depicter-revert .depicter-1-element-35{
+	font-size:25px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-34{
+	font-size:20px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-32{
+	font-size:25px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-31{
+	font-size:20px;
+	color:#000000;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-30{
+	background-color:#141414;
+}
+.depicter-revert .depicter-1-element-29{
+	background-color:#FD4A4A;
+}
+.depicter-revert .depicter-1-element-26{
+	font-size:16px;
+	text-align:center;
+	color:#343742;
+	font-family:"Sarabun";
+	font-weight:400;
+	text-transform:uppercase;
+	background-color:#FD4A4A;
+}
+.depicter-revert .depicter-1-element-26:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#222222;
+}
+.depicter-revert .depicter-1-element-25{
+	opacity:0.8;
+	font-size:17px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-24{
+	font-size:117px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-23{
+	font-size:117px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-22{
+	font-size:25px;
+	color:#fd4a4a;
+	font-family:"Sarabun";
+	font-weight:500;
+	line-height:120%;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-21{
+	background-color:#25252A;
+}
+.depicter-revert .depicter-1-element-51{
+	font-size:25px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-50{
+	font-size:20px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-48{
+	font-size:25px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-47{
+	font-size:20px;
+	color:#000000;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-46{
+	background-color:#141414;
+}
+.depicter-revert .depicter-1-element-45{
+	background-color:#FD4A4A;
+}
+.depicter-revert .depicter-1-element-42{
+	font-size:16px;
+	text-align:center;
+	color:#343742;
+	font-family:"Sarabun";
+	font-weight:400;
+	text-transform:uppercase;
+	background-color:#FD4A4A;
+}
+.depicter-revert .depicter-1-element-42:not(.depicter-hover-off):hover {
+	color:#FFF;
+	background-color:#222222;
+}
+.depicter-revert .depicter-1-element-41{
+	opacity:0.8;
+	font-size:17px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-40{
+	font-size:117px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-39{
+	font-size:117px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-element-38{
+	font-size:25px;
+	color:#fd4a4a;
+	font-family:"Sarabun";
+	font-weight:500;
+	line-height:120%;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	background-color:transparent;
+}
+.depicter-revert .depicter-1-section-37{
+	background-color:#25252A;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-1:not(.depicter-ready){
+	height:700px;
+}
+.depicter-revert .depicter-1-element-16{
+	font-size:20px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:;
+}
+.depicter-revert .depicter-1-element-15{
+	font-size:16px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-13{
+	font-size:20px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+}
+.depicter-revert .depicter-1-element-12{
+	font-size:16px;
+	color:#000000;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-6{
+	font-size:15px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:;
+}
+.depicter-revert .depicter-1-element-4{
+	font-size:75px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:75px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-2{
+	font-size:20px;
+	color:#fd4a4a;
+	font-family:"Sarabun";
+	font-weight:500;
+	line-height:120%;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+.depicter-revert .depicter-1-element-35{
+	font-size:20px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:;
+}
+.depicter-revert .depicter-1-element-34{
+	font-size:16px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-32{
+	font-size:20px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+}
+.depicter-revert .depicter-1-element-31{
+	font-size:16px;
+	color:#000000;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-25{
+	font-size:15px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:;
+}
+.depicter-revert .depicter-1-element-24{
+	font-size:75px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-23{
+	font-size:75px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-22{
+	font-size:20px;
+	color:#fd4a4a;
+	font-family:"Sarabun";
+	font-weight:500;
+	line-height:120%;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+.depicter-revert .depicter-1-element-51{
+	font-size:20px;
+	color:#ffffff;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:;
+}
+.depicter-revert .depicter-1-element-50{
+	font-size:16px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-48{
+	font-size:20px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:500;
+	line-height:120%;
+	text-transform:capitalize;
+	text-decoration:underline;
+}
+.depicter-revert .depicter-1-element-47{
+	font-size:16px;
+	color:#000000;
+	font-family:"Sarabun";
+	font-weight:400;
+	line-height:120%;
+}
+.depicter-revert .depicter-1-element-41{
+	font-size:15px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:;
+}
+.depicter-revert .depicter-1-element-40{
+	font-size:75px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-39{
+	font-size:75px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-38{
+	font-size:20px;
+	color:#fd4a4a;
+	font-family:"Sarabun";
+	font-weight:500;
+	line-height:120%;
+	text-transform:uppercase;
+	letter-spacing:2px;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-1:not(.depicter-ready){
+	height:740px;
+}
+.depicter-revert .depicter-1-element-7{
+	font-size:14px;
+	text-align:center;
+	color:#343742;
+	font-family:"Sarabun";
+	font-weight:400;
+	text-transform:uppercase;
+}
+.depicter-revert .depicter-1-element-4{
+	font-size:45px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-3{
+	font-size:45px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-26{
+	font-size:14px;
+	text-align:center;
+	color:#343742;
+	font-family:"Sarabun";
+	font-weight:400;
+	text-transform:uppercase;
+}
+.depicter-revert .depicter-1-element-24{
+	font-size:45px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-23{
+	font-size:45px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-42{
+	font-size:14px;
+	text-align:center;
+	color:#343742;
+	font-family:"Sarabun";
+	font-weight:400;
+	text-transform:uppercase;
+}
+.depicter-revert .depicter-1-element-40{
+	font-size:45px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+.depicter-revert .depicter-1-element-39{
+	font-size:45px;
+	color:#ffffff;
+	font-family:"Sarabun";
+	font-weight:100;
+	line-height:120%;
+	text-transform:capitalize;
+}
+
+}

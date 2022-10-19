@@ -1,0 +1,116 @@
+.elementor-105 .elementor-element.elementor-element-c821f6f:not(.elementor-motion-effects-element-type-background), .elementor-105 .elementor-element.elementor-element-c821f6f > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-secondary );}.elementor-105 .elementor-element.elementor-element-c821f6f{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:60px 35px 60px 35px;}.elementor-105 .elementor-element.elementor-element-c821f6f > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-105 .elementor-element.elementor-element-f3f8dd1 .aux-widget-inner > *{text-align:center;margin-left:auto !important;margin-right:auto !important;}.elementor-105 .elementor-element.elementor-element-f3f8dd1 .aux-modern-heading-primary{font-size:53px;font-weight:300;text-transform:uppercase;letter-spacing:3.18px;color:var( --e-global-color-text );}.elementor-105 .elementor-element.elementor-element-f3f8dd1{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-105 .elementor-element.elementor-element-561e6c2{margin-top:150px;margin-bottom:150px;padding:0px 35px 0px 35px;}.elementor-105 .elementor-element.elementor-element-664c391 .entry-title a{color:#1E1E1E;font-size:25px;font-weight:300;text-transform:capitalize;}.elementor-105 .elementor-element.elementor-element-664c391 .entry-info a, .elementor-105 .elementor-element.elementor-element-664c391 .entry-info{color:var( --e-global-color-text );}.elementor-105 .elementor-element.elementor-element-664c391 .entry-info, .elementor-105 .elementor-element.elementor-element-664c391 .entry-info a{font-size:17px;font-weight:300;}.elementor-105 .elementor-element.elementor-element-664c391 .type-post .entry-main{padding:0px 20px 0px 20px;}.elementor-105 .elementor-element.elementor-element-664c391{text-align:left;animation-delay:550ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-105 .elementor-element.elementor-element-664c391 .entry-meta .aux-read-more{color:#1E1E1E;font-size:16px;font-weight:400;text-transform:uppercase;}.elementor-105 .elementor-element.elementor-element-664c391 > .elementor-widget-container{margin:50px 0px 0px 0px;}@media(max-width:1024px){.elementor-105 .elementor-element.elementor-element-f3f8dd1 .aux-modern-heading-primary{font-size:46px;}.elementor-105 .elementor-element.elementor-element-561e6c2{margin-top:70px;margin-bottom:70px;}.elementor-105 .elementor-element.elementor-element-664c391 .entry-title a{font-size:22px;}.elementor-105 .elementor-element.elementor-element-664c391 .entry-info, .elementor-105 .elementor-element.elementor-element-664c391 .entry-info a{font-size:16px;}.elementor-105 .elementor-element.elementor-element-664c391 .entry-meta .aux-read-more{font-size:15px;}}@media(max-width:767px){.elementor-105 .elementor-element.elementor-element-f3f8dd1 .aux-modern-heading-primary{font-size:34px;}.elementor-105 .elementor-element.elementor-element-664c391 .entry-title a{font-size:20px;}.elementor-105 .elementor-element.elementor-element-664c391 .entry-info, .elementor-105 .elementor-element.elementor-element-664c391 .entry-info a{font-size:15px;}.elementor-105 .elementor-element.elementor-element-664c391 .entry-meta .aux-read-more{font-size:14px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-f3f8dd1 */.elementor-105 .elementor-element.elementor-element-f3f8dd1 .aux-modern-heading-primary:before{
+    content: "";
+    width: 51px;
+    height: 76px;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50.294' height='75.125' viewBox='0 0 50.294 75.125'%3E%3Cg id='Group_817' data-name='Group 817' transform='translate(-809.785 -213.595)'%3E%3Crect id='Rectangle_671' data-name='Rectangle 671' width='12.443' height='68.438' transform='translate(850.012 213.595) rotate(36)' fill='%23fd4a4a'/%3E%3Crect id='Rectangle_670' data-name='Rectangle 670' width='12.443' height='29.034' transform='translate(843.442 257.917) rotate(36)' fill='%23c9c9c9'/%3E%3C/g%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+    margin-right: 15px;
+    position: relative;
+    top: 20px;
+}
+@media screen and (max-width:900px){
+    .elementor-105 .elementor-element.elementor-element-f3f8dd1 .aux-modern-heading-primary:before{
+        width: 40px;
+        height: 55px;
+    }
+}
+@media screen and (max-width:400px){
+    .elementor-105 .elementor-element.elementor-element-f3f8dd1 .aux-modern-heading-primary {
+        font-size: 26px !important;
+    }
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_posts, class: .elementor-element-664c391 */.elementor-105 .elementor-element.elementor-element-664c391 .aux-col:hover .entry-info a{
+    color: var(--e-global-color-accent);
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-col:hover .entry-title a , .elementor-105 .elementor-element.elementor-element-664c391 .aux-col:hover .aux-read-more{
+    color: var(--e-global-color-text);
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-media-frame a:after{
+    content: "";
+    width: 100%;
+    height: 100%;
+    background-color: var(--e-global-color-primary);
+    opacity: 0;
+    display: inline-block;
+    position: absolute;
+    top:0;
+    left: 0;
+    transition:all 250ms ease-in;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-col:hover .aux-media-frame a:after{
+    opacity: 0.92;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-col{
+    transition:all 250ms ease-in;
+    position: relative;
+    top:0;
+    margin-bottom: 30px;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-col:hover{
+    position: relative;
+    top:40px;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-read-more::after{
+    content: "\e1e2";
+    font-family: "auxin-front";
+    position: relative;
+    top:4px;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-circle{
+    display: none;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-load-more{
+    height: 50px;
+    border: 1px solid var(--e-global-color-primary);
+    border-radius: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-load-more:hover{
+    background-color:var(--e-global-color-primary);
+    border: 1px solid var(--e-global-color-primary);
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-label-text , .elementor-105 .elementor-element.elementor-element-664c391  .aux-load-more .aux-loading-label{
+    line-height: 48px;
+    text-transform: capitalize;
+    color: var(--e-global-color-accent);
+    font-weight: 500;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-load-more:hover .aux-label-text{
+    color: var(--e-global-color-e2729a0);
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-media-frame a:before{
+    content: "\e1e2";
+    width: 100px;
+    height: 100px;
+    font-family: "auxin-front";
+    font-size: 44px;
+    color: var(--e-global-color-secondary);
+    border: 2px solid var(--e-global-color-secondary);
+    border-radius: 100%;
+    padding:14px 20px;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+    opacity: 0;
+    transition: all 250ms ease-in;
+}
+.elementor-105 .elementor-element.elementor-element-664c391 .aux-col:hover .aux-media-frame a:before{
+    opacity: 1;
+}
+@media screen and (max-width:900px){
+    .elementor-105 .elementor-element.elementor-element-664c391 .aux-media-frame a:before{
+        font-size: 28px;
+        width:65px;
+        height:65px;
+    }
+}/* End custom CSS */

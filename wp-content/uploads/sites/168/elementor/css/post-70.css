@@ -1,0 +1,46 @@
+.elementor-70 .elementor-element.elementor-element-4db0de3{margin-top:70px;margin-bottom:250px;padding:0px 35px 0px 35px;}.elementor-70 .elementor-element.elementor-element-9fa963d .aux-modern-heading-primary{font-size:60px;font-weight:700;text-transform:capitalize;line-height:1.2em;letter-spacing:-1.8px;color:var( --e-global-color-text );}.elementor-70 .elementor-element.elementor-element-9fa963d{z-index:9;animation-duration:2000ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-media img{border-radius:25px 25px 25px 25px !important;}.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-title a{color:var( --e-global-color-text );font-size:25px;font-weight:600;}.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-info a, .elementor-70 .elementor-element.elementor-element-b347ce8 .entry-info{color:#FFFFFFAD;}.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-info, .elementor-70 .elementor-element.elementor-element-b347ce8 .entry-info a{font-size:16px;font-weight:300;}.elementor-70 .elementor-element.elementor-element-b347ce8{text-align:left;animation-delay:200ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-meta .aux-read-more{color:var( --e-global-color-d510690 );font-size:16px;font-weight:400;text-transform:capitalize;}@media(max-width:1024px){.elementor-70 .elementor-element.elementor-element-9fa963d .aux-modern-heading-primary{font-size:50px;}.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-title a{font-size:20px;}.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-info, .elementor-70 .elementor-element.elementor-element-b347ce8 .entry-info a{font-size:15px;}.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-meta .aux-read-more{font-size:15px;}}@media(max-width:767px){.elementor-70 .elementor-element.elementor-element-9fa963d .aux-modern-heading-primary{font-size:40px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-b347ce8 */.elementor-70 .elementor-element.elementor-element-b347ce8 .aux-media-frame img { width:100%; 
+}
+.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-meta{
+    opacity: 0;
+    transition: all 300ms ease-in;
+}
+.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-info{
+    transition: all 300ms ease-in;
+}
+.elementor-70 .elementor-element.elementor-element-b347ce8 .aux-col:hover .entry-info{
+    opacity: 0;
+}
+.elementor-70 .elementor-element.elementor-element-b347ce8 .aux-col:hover .entry-meta{
+    opacity: 1;
+    bottom: 30px;
+}
+.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-title:before{
+    content: '';
+    width:0;
+    height: 10px;
+    background-color: var( --e-global-color-d510690 );
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 20px;
+    opacity: 0;
+    transition: all 200ms ease-in;
+}
+.elementor-70 .elementor-element.elementor-element-b347ce8 .aux-col:hover .entry-title:before{
+    opacity: 1;
+    width:33% 
+}
+.elementor-70 .elementor-element.elementor-element-b347ce8 .entry-title a{
+    position: relative;
+    z-index: 9;
+}
+.elementor-70 .elementor-element.elementor-element-b347ce8 .aux-col{
+    padding-left: 35px !important;
+    padding-right: 35px !important;
+}
+@meida screen and (max-width:900px){
+    .elementor-70 .elementor-element.elementor-element-b347ce8 .aux-col{
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+}/* End custom CSS */

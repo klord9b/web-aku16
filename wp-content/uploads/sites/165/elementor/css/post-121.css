@@ -1,0 +1,77 @@
+.elementor-121 .elementor-element.elementor-element-17366c5 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-121 .elementor-element.elementor-element-17366c5{margin-top:0px;margin-bottom:0px;max-width:87%;}.elementor-bc-flex-widget .elementor-121 .elementor-element.elementor-element-04e4572.elementor-column .elementor-column-wrap{align-items:flex-start;}.elementor-121 .elementor-element.elementor-element-04e4572.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-121 .elementor-element.elementor-element-1345fa0 .col-title, .elementor-121 .elementor-element.elementor-element-1345fa0 .col-title a{font-family:"Playfair Display", Sans-serif;font-size:26px;font-weight:400;text-transform:capitalize;line-height:40px;}.elementor-121 .elementor-element.elementor-element-1345fa0 .aux-staff-content .col-title{margin-top:15px;}.elementor-121 .elementor-element.elementor-element-1345fa0 .aux-staff-content  .col-title{margin-bottom:12px;}.elementor-121 .elementor-element.elementor-element-1345fa0 .aux-staff-content  .col-subtitle{font-family:"Open Sans", Sans-serif;font-size:15px;font-weight:400;font-style:normal;line-height:20px;}.elementor-121 .elementor-element.elementor-element-1345fa0 .aux-widget-staff .aux-staff-content{padding:0px 0px 0px 0px;}.elementor-121 .elementor-element.elementor-element-1345fa0{max-width:90%;}.elementor-121 .elementor-element.elementor-element-98e7af1 .aux-the-shape{width:99px;height:4px;}.elementor-121 .elementor-element.elementor-element-98e7af1 .aux-widget-container{text-align:left;}.elementor-121 .elementor-element.elementor-element-98e7af1{width:auto;max-width:auto;position:absolute;right:56%;bottom:13%;}@media(max-width:767px){.elementor-121 .elementor-element.elementor-element-17366c5{max-width:100%;}.elementor-121 .elementor-element.elementor-element-98e7af1{right:60%;bottom:11%;}}/* Start custom CSS for aux_staff, class: .elementor-element-1345fa0 */.elementor-121 .elementor-element.elementor-element-1345fa0 .aux-staff-content {
+     background-color: var( --auxin-featured-color-1 );
+    padding: 8px 25px 15px 33px!important;
+    position: absolute;
+    bottom: -51px;
+    left: 41%;
+    width: 80%;
+}
+@media screen and (max-width: 1267px)and (min-width: 992px) {
+.elementor-121 .elementor-element.elementor-element-1345fa0 .col-title{
+    font-size: 19px!important;
+    line-height: 28px!important;
+}
+.elementor-121 .elementor-element.elementor-element-1345fa0 .aux-staff-content{
+    padding: 0px 16px 7px 13px!important;
+}
+}
+@media screen and (max-width: 767px){
+   .elementor-121 .elementor-element.elementor-element-1345fa0{
+       margin:auto;
+}
+ .elementor-121 .elementor-element.elementor-element-1345fa0 .aux-staff-content {
+    right: 0;
+    margin: auto;
+    left: 0;
+    width: 64%;
+}
+ 
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-04e4572 */.elementor-121 .elementor-element.elementor-element-04e4572 .aux-media-image{
+    position: relative;
+    transition: all .5s cubic-bezier(.19,1,.22,1);
+}
+.elementor-121 .elementor-element.elementor-element-04e4572 .aux-media-image:after {
+    content: '';
+    width:100%;
+    height: 100%;
+    background-color: transparent;
+    border: 8px solid var( --auxin-featured-color-1 );
+    position: absolute;
+   bottom:-68px;
+   left: 87px;
+    
+    transform: scale(1.25);
+    transition: all .5s cubic-bezier(.19,1,.22,1);
+    opacity: 0;
+}
+.elementor-121 .elementor-element.elementor-element-04e4572:hover .aux-media-image:after {
+  opacity: 1;
+    transition: all .5s cubic-bezier(.19,1,.22,1);
+     transform: none;
+     transform: scale(1.08);
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-17366c5 *//*.elementor-121 .elementor-element.elementor-element-17366c5 .aux-media-image{*/
+/*    position: relative;*/
+     
+/*     transition: all .5s cubic-bezier(.19,1,.22,1);*/
+/*}*/
+/*.elementor-121 .elementor-element.elementor-element-17366c5 .aux-media-image:after {*/
+/*       content: '';*/
+/*    width: 345px;*/
+/*    height: 474px;*/
+/*    background-color: transparent;*/
+/*    border: 7px solid #BBAB8A;*/
+/*    position: absolute;*/
+/*    top:-40px;*/
+/*    right: -30px;*/
+/*    z-index: -1;*/
+/*    transform: scale(1.25);*/
+/*    transition: all .5s cubic-bezier(.19,1,.22,1);*/
+/*    opacity: 0;*/
+/*}*/
+/*.elementor-121 .elementor-element.elementor-element-17366c5 .aux-media-image:hover:after {*/
+/*  opacity: 1;*/
+/*    transition: all .5s cubic-bezier(.19,1,.22,1);*/
+/*     transform: none;*/
+/*}*//* End custom CSS */

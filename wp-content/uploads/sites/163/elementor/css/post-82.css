@@ -1,0 +1,45 @@
+.elementor-82 .elementor-element.elementor-element-e4d3754 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-82 .elementor-element.elementor-element-e4d3754:not(.elementor-motion-effects-element-type-background), .elementor-82 .elementor-element.elementor-element-e4d3754 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F2F2F2;}.elementor-82 .elementor-element.elementor-element-e4d3754 > .elementor-background-overlay{background-image:url("/wp-content/uploads/sites/163/2020/11/waves.png");background-position:center right;background-size:cover;opacity:1;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-82 .elementor-element.elementor-element-e4d3754{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:80px 35px 70px 35px;}.elementor-82 .elementor-element.elementor-element-79d8027 .aux-modern-heading-primary{font-size:50px;font-weight:400;text-transform:capitalize;color:var( --e-global-color-primary );margin:0px 0px 20px 85px;max-width:350px;}.elementor-82 .elementor-element.elementor-element-79d8027{animation-duration:2500ms;animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-82 .elementor-element.elementor-element-0c73152.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-end;}.elementor-82 .elementor-element.elementor-element-c003dd9 span:not(.aux-breadcrumb-sep) a{color:var( --e-global-color-primary );}.elementor-82 .elementor-element.elementor-element-c003dd9 span:not(.aux-breadcrumb-sep) a:hover{color:var( --e-global-color-primary );}.elementor-82 .elementor-element.elementor-element-c003dd9 span:not(.aux-breadcrumb-sep){color:var( --e-global-color-primary );}.elementor-82 .elementor-element.elementor-element-c003dd9 span{font-size:16px;font-weight:300;}.elementor-82 .elementor-element.elementor-element-c003dd9 span.aux-breadcrumb-sep{color:var( --e-global-color-primary );}.elementor-82 .elementor-element.elementor-element-c003dd9 .aux-breadcrumb-sep{font-size:14px;}.elementor-82 .elementor-element.elementor-element-c003dd9 .aux-elementor-breadcrumbs{text-align:right;}.elementor-82 .elementor-element.elementor-element-c003dd9 p.aux-breadcrumbs{transition:all ease-out 0.3s;}.elementor-82 .elementor-element.elementor-element-b75f039{margin-top:20px;margin-bottom:0px;padding:0px 35px 0px 35px;}.elementor-82 .elementor-element.elementor-element-90674ae .aux-filters:not(.aux-slideup) li > a span, .elementor-82 .elementor-element.elementor-element-90674ae .aux-filters.aux-slideup li > a span:before{color:#00000061;}.elementor-82 .elementor-element.elementor-element-90674ae .aux-filters li > a{font-size:22px;font-weight:400;text-transform:capitalize;}.elementor-82 .elementor-element.elementor-element-90674ae .aux-filters li > a.aux-selected span:after, .elementor-82 .elementor-element.elementor-element-90674ae .aux-filters:not(.aux-slideup) li > a.aux-selected span{color:var( --e-global-color-primary );}.elementor-82 .elementor-element.elementor-element-90674ae .aux-filters li > a.aux-selected{font-weight:700;}.elementor-82 .elementor-element.elementor-element-90674ae .entry-read-more a{color:var( --e-global-color-secondary );font-size:16px;font-weight:400;text-transform:capitalize;}.elementor-82 .elementor-element.elementor-element-90674ae .aux-iso-item{margin-bottom:30px !important;}.elementor-82 .elementor-element.elementor-element-90674ae .entry-main{background-color:var( --e-global-color-primary );}.elementor-82 .elementor-element.elementor-element-90674ae{animation-delay:200ms;animation-timing-function:cubic-bezier(0.25,0.46,0.45,0.94);}@media(max-width:1024px){.elementor-82 .elementor-element.elementor-element-79d8027 .aux-modern-heading-primary{font-size:44px;margin:0px 0px 0px 70px;}.elementor-82 .elementor-element.elementor-element-90674ae .aux-filters li > a{font-size:18px;}}@media(max-width:767px){.elementor-82 .elementor-element.elementor-element-79d8027 .aux-modern-heading-primary{font-size:40px;}.elementor-82 .elementor-element.elementor-element-0c73152.elementor-column > .elementor-column-wrap > .elementor-widget-wrap{justify-content:flex-start;}.elementor-82 .elementor-element.elementor-element-0c73152 > .elementor-element-populated{margin:30px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-82 .elementor-element.elementor-element-c003dd9 span{font-size:14px;}.elementor-82 .elementor-element.elementor-element-c003dd9 .aux-breadcrumb-sep{font-size:12px;}.elementor-82 .elementor-element.elementor-element-c003dd9 .aux-elementor-breadcrumbs{text-align:left;}.elementor-82 .elementor-element.elementor-element-90674ae .aux-filters li > a{font-size:16px;}}/* Start custom CSS for aux_modern_heading, class: .elementor-element-79d8027 */.elementor-82 .elementor-element.elementor-element-79d8027 .aux-modern-heading-primary:before{
+    content: "";
+    width: 52px;
+    height: 3px;
+    background-color: var( --e-global-color-primary );
+    display: inline-block;
+    position: absolute;
+    left: 0;
+    top: 40px;
+    
+}/* End custom CSS */
+/* Start custom CSS for aux_recent_portfolios_grid, class: .elementor-element-90674ae */.elementor-82 .elementor-element.elementor-element-90674ae .wpulike{
+    display: none;
+}
+.elementor-82 .elementor-element.elementor-element-90674ae .entry-media {
+    margin-bottom: 0;
+}
+.elementor-82 .elementor-element.elementor-element-90674ae .aux-read-more::after{
+    display: none;
+}
+.elementor-82 .elementor-element.elementor-element-90674ae .aux-read-more::before{
+    content: "+";
+    font-size: 24px;
+    display: block;
+    font-weight: 700;
+}
+.elementor-82 .elementor-element.elementor-element-90674ae .aux-read-more{
+    background-color: transparent;
+}
+.elementor-82 .elementor-element.elementor-element-90674ae .entry-main{
+    margin-bottom: 0px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 0;
+    transition:all 300ms ease-in;
+}
+.elementor-82 .elementor-element.elementor-element-90674ae .aux-col:hover .entry-main{
+    height: 18%;
+    padding: 10px 0px 10px 5px !important;
+}
+.elementor-82 .elementor-element.elementor-element-90674ae .aux-iso-item{
+    margin-bottom: 0 !important;
+}/* End custom CSS */

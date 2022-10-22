@@ -1,0 +1,31 @@
+.elementor-119 .elementor-element.elementor-element-bfce2ea > .elementor-element-populated > .elementor-widget-wrap{padding:50px 0px 0px 15px;}.elementor-119 .elementor-element.elementor-element-ce10139 .aux-testimonial-image img{border-radius:100% 100% 100% 100%;overflow:hidden;}.elementor-119 .elementor-element.elementor-element-ce10139 .col-title a, .elementor-119 .elementor-element.elementor-element-ce10139 .col-title{color:var( --e-global-color-secondary );}.elementor-119 .elementor-element.elementor-element-ce10139 .col-title, .elementor-119 .elementor-element.elementor-element-ce10139 .col-title a{font-size:19px;font-weight:bold;text-transform:uppercase;}.elementor-119 .elementor-element.elementor-element-ce10139 .col-subtitle{color:#414141B3 !important;font-size:17px;font-weight:400;}.elementor-119 .elementor-element.elementor-element-ce10139 .aux-testimonial-content{color:var( --e-global-color-74806ed );font-size:25px;font-style:italic;line-height:45px;}.elementor-119 .elementor-element.elementor-element-ce10139 .aux-widget-testimonial{text-align:center;}@media(max-width:1024px){.elementor-119 .elementor-element.elementor-element-ce10139 .col-title, .elementor-119 .elementor-element.elementor-element-ce10139 .col-title a{font-size:18px;}.elementor-119 .elementor-element.elementor-element-ce10139 .col-subtitle{font-size:16px;}.elementor-119 .elementor-element.elementor-element-ce10139 .aux-testimonial-content{font-size:22px;}}@media(max-width:767px){.elementor-119 .elementor-element.elementor-element-ce10139 .col-title, .elementor-119 .elementor-element.elementor-element-ce10139 .col-title a{font-size:16px;}.elementor-119 .elementor-element.elementor-element-ce10139 .col-subtitle{font-size:14px;}.elementor-119 .elementor-element.elementor-element-ce10139 .aux-testimonial-content{font-size:17px;}}/* Start custom CSS for aux_testimonial, class: .elementor-element-ce10139 */.elementor-119 .elementor-element.elementor-element-ce10139 .aux-widget-testimonial{
+    text-align: left !important;
+}
+.elementor-119 .elementor-element.elementor-element-ce10139 .entry-content::after{
+    display: none;
+}
+.elementor-119 .elementor-element.elementor-element-ce10139 .entry-content::before{
+    content: "" !important;
+    width: 58px;
+    height: 58px;
+    background: transparent linear-gradient(180deg, var(--e-global-color-f23e211) 0%, var(--e-global-color-fb6fc88) 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 5px 15px #093CDC59;
+    border-radius: 5px;
+    top: -43px !important;
+}
+.elementor-119 .elementor-element.elementor-element-ce10139 .aux-testimonial-content  .entry-content::after{
+    content: "" !important;
+    width: 20px;
+    height: 20px !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='21.953' height='17.422' viewBox='0 0 21.953 17.422'%3E%3Cpath id='Path_1394' data-name='Path 1394' d='M26.094-56.953,21.758-39.531H16.016l5.508-17.422Zm-11.875,0L10-39.531H4.141L9.609-56.953Z' transform='translate(-4.141 56.953)' fill='%23fff'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    display: inline-block;
+    position: absolute;
+    top: -25px !important;
+    left: 12px !important;
+}
+.elementor-119 .elementor-element.elementor-element-ce10139 .entry-content{
+    max-width:651px;
+}/* End custom CSS */

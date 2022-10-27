@@ -1,0 +1,24 @@
+.elementor-99 .elementor-element.elementor-element-f745308{margin-top:100px;margin-bottom:80px;padding:0px 35px 0px 35px;}.elementor-99 .elementor-element.elementor-element-564601b .entry-media img{border-radius:40px 40px 40px 40px !important;}.elementor-99 .elementor-element.elementor-element-564601b .aux-media-image{box-shadow:-15px 30px 70px 0px rgba(8, 20, 32, 0.12);}.elementor-99 .elementor-element.elementor-element-564601b .entry-title a{color:#081420;font-size:20px;font-weight:bold;letter-spacing:-0.6px;}.elementor-99 .elementor-element.elementor-element-564601b .entry-info a, .elementor-99 .elementor-element.elementor-element-564601b .entry-info{color:#70798B;}.elementor-99 .elementor-element.elementor-element-564601b .entry-info, .elementor-99 .elementor-element.elementor-element-564601b .entry-info a{font-size:16px;font-weight:500;}.elementor-99 .elementor-element.elementor-element-564601b .entry-info{margin-bottom:15px;}.elementor-99 .elementor-element.elementor-element-564601b .type-post .entry-main{padding:38px 50px 40px 60px;}.elementor-99 .elementor-element.elementor-element-564601b{text-align:left;}@media(max-width:1024px){.elementor-99 .elementor-element.elementor-element-564601b .entry-title a{font-size:17px;}.elementor-99 .elementor-element.elementor-element-564601b .entry-info, .elementor-99 .elementor-element.elementor-element-564601b .entry-info a{font-size:15px;}.elementor-99 .elementor-element.elementor-element-564601b .type-post .entry-main{padding:25px 30px 20px 30px;}}@media(max-width:767px){.elementor-99 .elementor-element.elementor-element-564601b .entry-title a{font-size:16px;}.elementor-99 .elementor-element.elementor-element-564601b .entry-info, .elementor-99 .elementor-element.elementor-element-564601b .entry-info a{font-size:14px;}}/* Start custom CSS for aux_recent_posts, class: .elementor-element-564601b */.elementor-99 .elementor-element.elementor-element-564601b .aux-media-frame{
+    border-radius: 40px;
+}
+.elementor-99 .elementor-element.elementor-element-564601b .entry-main{
+    box-shadow: none;
+    border-radius: 30px;
+    position: absolute;
+    top: auto;
+    bottom: 40px;
+    left: 0;
+    right:0;
+    transition: all 300ms ease-in;
+}
+.elementor-99 .elementor-element.elementor-element-564601b .aux-col:hover .entry-main{
+    top: auto;
+    bottom: 25px;
+    background-color: var(--e-global-color-secondary);
+}
+.elementor-99 .elementor-element.elementor-element-564601b .aux-col:hover .entry-title a , .elementor-99 .elementor-element.elementor-element-564601b .aux-col:hover .entry-info a{
+    color: var(--e-global-color-43e0572) !important;
+}
+.elementor-99 .elementor-element.elementor-element-564601b .entry-media , .elementor-99 .elementor-element.elementor-element-564601b .aux-col{
+    margin-bottom: 0;
+}/* End custom CSS */
